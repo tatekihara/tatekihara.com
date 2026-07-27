@@ -353,3 +353,18 @@ main h2:first-of-type {
 .readings-note p {
   margin-bottom: 0;
 }
+
+/* 文献一覧の小見出し */
+.readings-group {
+  display: block;
+  margin: 1.5rem 0 0.2rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  color: #1a4f7a;
+}
+
+.readings > p:first-child .readings-group,
+.readings-group:first-child {
+  margin-top: 0;
+}
