@@ -1,0 +1,17 @@
+/*-- scss:defaults --*/
+
+// Quarto はコンテンツ幅を既定で固定するため、ワイド画面だと左右の余白が過大になる。
+// 本文の列を広げ、両脇の余白列を絞る。
+$grid-body-width: 960px;
+$grid-margin-width: 180px;
+$grid-sidebar-width: 220px;
+
+// リンクの色を落ち着いた青に
+$link-color: #1a4f7a;
+
+/*-- scss:rules --*/
+
+// 本文が短いページでフッターまで空きすぎないようにする
+#quarto-content > main {
+  padding-bottom: 1.5rem;
+}

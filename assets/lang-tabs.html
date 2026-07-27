@@ -1,0 +1,50 @@
+<script>
+// About ページの言語タブ。
+//   /#japanese で開く → 日本語タブを選択した状態で表示する
+//   タブを切り替える → URL の末尾を書き換え、その状態のまま共有・ブックマークできるようにする
+// 旧 /japanese/ の転送先もこの仕組みに乗せている。
+(function () {
+  function init() {
+    var tabset = document.querySelector('.panel-tabset.lang-tabset');
+    if (!tabset) return;
+
+    var links = tabset.querySelectorAll('.nav-tabs .nav-link');
+    if (links.length < 2) return;
+
+    var byHash = { '#japanese': links[1], '#english': links[0] };
+
+    function show(link) {
+      if (!link || link.classList.contains('active')) return;
+      if (window.bootstrap && window.bootstrap.Tab) {
+        window.bootstrap.Tab.getOrCreateInstance(link).show();
+      } else {
+        link.click();
+      }
+    }
+
+    // 読み込み時: URL の指定に従ってタブを開く
+    show(byHash[window.location.hash]);
+
+    // 切り替え時: URL を更新する（画面はスクロールさせない）
+    Array.prototype.forEach.call(links, function (link, i) {
+      link.addEventListener('shown.bs.tab', function () {
+        var hash = i === 1 ? '#japanese' : '#english';
+        if (window.location.hash !== hash) {
+          history.replaceState(null, '', window.location.pathname + hash);
+        }
+      });
+    });
+
+    // 別ページから /#japanese で戻ってきた場合にも追随する
+    window.addEventListener('hashchange', function () {
+      show(byHash[window.location.hash]);
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>

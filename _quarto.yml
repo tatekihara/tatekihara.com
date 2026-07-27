@@ -6,6 +6,7 @@ project:
     - "wp-content/**"
     - "CNAME"
     - "lectures-and-seminars-講義・研究会/**"
+    - "japanese/**"
 
 website:
   title: "Tate Kihara"
@@ -27,14 +28,16 @@ website:
             text: Info for Keio Students
       - href: cv/index.qmd
         text: "CV & Contact"
-      - href: japanese/index.qmd
+      - href: "/#japanese"
         text: "略歴（in Japanese）"
   page-footer:
     center: "© Tate Kihara"
 
 format:
   html:
-    theme: cosmo
+    theme:
+      - cosmo
+      - assets/theme.scss
     css: assets/styles.css
     toc: false
     anchor-sections: false

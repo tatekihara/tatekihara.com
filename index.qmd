@@ -1,15 +1,21 @@
 ---
 title: "About"
+include-after-body: assets/lang-tabs.html
 ---
 
 ::: {.grid}
-::: {.g-col-12 .g-col-md-3}
+::: {.g-col-12 .g-col-md-4 .profile}
 ![](/wp-content/uploads/2021/12/cropped-tate_pic_2021_2_original-4-scaled-1.jpg){.rounded-circle width="100%"}
 
 Download [CV](https://www.dropbox.com/sh/m4zax98wu37zrss/AAAJtE4Z-C5C93talFagWIL4a?e=1&dl=0)
 :::
 
-::: {.g-col-12 .g-col-md-9}
+::: {.g-col-12 .g-col-md-8}
+
+::: {.panel-tabset .lang-tabset}
+
+## English
+
 Welcome!
 
 My name is Tate Kihara (pronounced Tah-tay Key-ha-rah), and I am an Assistant Professor (*sennin-kōshi* in Japanese) in the [Graduate School of Media and Governance](https://www.sfc.keio.ac.jp/faculty_profile/en/list/gsmg/Tate-Kihara.html) (with a joint appointment in the undergraduate Faculty of Policy Management) at [Keio University's Shonan Fujisawa Campus](https://www.sfc.keio.ac.jp).
@@ -19,5 +25,38 @@ Sociologist and social demographer by training, my research examines internation
 Born in Kyoto, Japan, I have received my education in Japan, Canada, and the United States. Prior to starting my current position, I was a [Japan Society for the Promotion of Science (JSPS) Postdoctoral Research Fellow](https://www.jsps.go.jp/english/e-pd/) at the [Institute of Social Science, The University of Tokyo](https://www.iss.u-tokyo.ac.jp). I received my Ph.D. from Brown University in Providence, RI, and my M.A. and B.A. from The University of Tokyo.
 
 You can reach me at tkihara![](/wp-content/uploads/2021/08/at.jpg){width="14px"}keio.jp
+
+## 日本語
+
+社会学・社会人口学を専門とし、日本を出入りする国際人口移動を歴史・現代の両面から研究している。とくに、それが社会的不平等とどのように結びつくのかに関心がある。
+
+::: {.bio-fields}
+
+**氏名**：木原　盾（きはら　たて）
+
+**現職**：慶應義塾大学　大学院政策・メディア研究科｜総合政策学部　専任講師
+
+**英職名**：Assistant Professor, Graduate School of Media and Governance, Keio University
+
+**略歴**：1991年京都市生まれ. 東京大学文学部行動文化学科社会学専修課程卒業，東京大学大学院教育学研究科総合教育科学専攻比較教育社会学コース修士課程修了，ブラウン大学大学院社会学研究科博士課程修了．ジョージタウン大学マックコート公共政策大学院客員研究員，日本学術振興会特別研究員PD（東京大学社会科学研究所所属）を経て, 現職．
+
+**学位**：Ph.D. in Sociology（ブラウン大学，2023年）
+
+**専門領域**：社会人口学, 計量社会学, 国際人口移動, 社会階層論
+
+**専門地域**：日本, アメリカ合衆国, カナダ
+
+**研究業績**：[researchmap](https://researchmap.jp/tkihara)をご覧ください。
+
+**Email**: tkihara![](/wp-content/uploads/2021/08/at.jpg){width="14px"}sfc.keio.ac.jp
+
+**ブログ**：<https://tkihara.hatenablog.com>
+
+<http://underthecanopy2016.blogspot.com>（旧ブログ）
+
+:::
+
+:::
+
 :::
 :::
