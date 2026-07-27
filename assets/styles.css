@@ -354,17 +354,49 @@ main h2:first-of-type {
   margin-bottom: 0;
 }
 
-/* 文献一覧の小見出し */
+
+/* ---- 輪読文献の一覧 ---- */
+.readings {
+  margin-top: 0.4rem;
+}
+
+/* 小見出しは「次に来るリストの見出し」に見える必要がある。
+   上を広く、下を狭く取ることで、直前のリストから切り離して
+   直後のリストとまとまって見えるようにする。 */
 .readings-group {
-  display: block;
-  margin: 1.5rem 0 0.2rem;
-  font-size: 0.85rem;
+  margin: 1.7rem 0 0.35rem;
+  font-size: 0.82rem;
   font-weight: 600;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.06em;
   color: #1a4f7a;
 }
 
-.readings > p:first-child .readings-group,
 .readings-group:first-child {
   margin-top: 0;
+}
+
+/* div で包まれた見出しテキストの段落マージンを打ち消す */
+.readings-group p {
+  margin: 0;
+  line-height: 1.4;
+}
+
+.readings ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.readings li {
+  padding: 0.42rem 0 0.42rem 1.1rem;
+  text-indent: -1.1rem;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+/* 各グループの最終行は罫線を消し、次の小見出しとの間を空ける */
+.readings ul li:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
 }

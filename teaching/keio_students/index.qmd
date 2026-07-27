@@ -16,20 +16,25 @@ You may choose any topic as long as you frame your research questions within soc
 #### A sample of past readings {#past-readings-en}
 
 ::: {.readings}
-[Foundations in sociology and demography]{.readings-group}
+::: {.readings-group}
+Foundations in sociology and demography
+:::
 
 - 富永健一，1995，『[社会学講義――人と社会の学](https://www.chuko.co.jp/shinsho/1995/04/101242.html)』中央公論社．
 - 河野稠果，2007，『[人口学への招待――少子・高齢化はどこまで解明されたか](https://www.chuko.co.jp/shinsho/2007/08/101910.html)』中央公論新社．
 
-[Research methods and data]{.readings-group}
+::: {.readings-group}
+Research methods and data
+:::
 
 - 松木洋人・中西泰子・本多真隆，2023，『[基礎からわかる社会学研究法――具体例で学ぶ研究の進めかた](https://www.minervashobo.co.jp/book/b621926.html)』ミネルヴァ書房．
 - エレーナ・ローデ・今井耕介・原田勝孝，2025，『[新・社会科学のためのデータ分析入門 導入編](https://www.iwanami.co.jp/book/b656062.html)』岩波書店．
 - 筒井淳也，2023，『[数字のセンスを磨く――データの読み方・活かし方](https://books.kobunsha.com/book/b10125145.html)』光文社．
-- 渡邉雅子，2024，『[論理的思考とは何か](https://www.iwanami.co.jp/book/b652403.html)』岩波書店．
 - 小熊英二，2022，『[基礎からわかる論文の書き方](https://www.kodansha.co.jp/book/products/0000361477)』講談社．
 
-[Migration and ethnicity]{.readings-group}
+::: {.readings-group}
+Migration and ethnicity
+:::
 
 - de Haas, Hein, 2024, *[How Migration Really Works: 22 Things You Need to Know About the Most Divisive Issue in Politics](https://www.kinokuniya.co.jp/f/dsg-02-9780241998779)*, Penguin Books.
 - 永吉希久子，2020，『[移民と日本社会――データで読み解く実態と将来像](https://www.chuko.co.jp/shinsho/2020/02/102580.html)』中央公論新社．
@@ -38,7 +43,7 @@ You may choose any topic as long as you frame your research questions within soc
 :::
 
 ::: {.readings-note}
-We have also read journal articles from 『理論と方法』, 『社会学評論』, *American Sociological Review*, and *Demography*, among others.
+We have also read journal articles from *American Sociological Review*, *Demography*, 『社会学評論』, and 『理論と方法』, among others.
 :::
 
 ::: {.notice}
@@ -62,20 +67,25 @@ As a general rule, besides meeting the requirements set by the SFC Registrar, yo
 #### これまでに読んだ文献の一例 {#past-readings-ja}
 
 ::: {.readings}
-[社会学・人口学の基礎]{.readings-group}
+::: {.readings-group}
+社会学・人口学の基礎
+:::
 
 - 富永健一，1995，『[社会学講義――人と社会の学](https://www.chuko.co.jp/shinsho/1995/04/101242.html)』中央公論社．
 - 河野稠果，2007，『[人口学への招待――少子・高齢化はどこまで解明されたか](https://www.chuko.co.jp/shinsho/2007/08/101910.html)』中央公論新社．
 
-[研究の方法とデータ]{.readings-group}
+::: {.readings-group}
+研究の方法とデータ
+:::
 
 - 松木洋人・中西泰子・本多真隆，2023，『[基礎からわかる社会学研究法――具体例で学ぶ研究の進めかた](https://www.minervashobo.co.jp/book/b621926.html)』ミネルヴァ書房．
 - エレーナ・ローデ・今井耕介・原田勝孝，2025，『[新・社会科学のためのデータ分析入門 導入編](https://www.iwanami.co.jp/book/b656062.html)』岩波書店．
 - 筒井淳也，2023，『[数字のセンスを磨く――データの読み方・活かし方](https://books.kobunsha.com/book/b10125145.html)』光文社．
-- 渡邉雅子，2024，『[論理的思考とは何か](https://www.iwanami.co.jp/book/b652403.html)』岩波書店．
 - 小熊英二，2022，『[基礎からわかる論文の書き方](https://www.kodansha.co.jp/book/products/0000361477)』講談社．
 
-[国際移動とエスニシティ]{.readings-group}
+::: {.readings-group}
+国際移動とエスニシティ
+:::
 
 - de Haas, Hein, 2024, *[How Migration Really Works: 22 Things You Need to Know About the Most Divisive Issue in Politics](https://www.kinokuniya.co.jp/f/dsg-02-9780241998779)*, Penguin Books.
 - 永吉希久子，2020，『[移民と日本社会――データで読み解く実態と将来像](https://www.chuko.co.jp/shinsho/2020/02/102580.html)』中央公論新社．
@@ -84,7 +94,7 @@ As a general rule, besides meeting the requirements set by the SFC Registrar, yo
 :::
 
 ::: {.readings-note}
-この他，『理論と方法』『社会学評論』*American Sociological Review*，*Demography* 等掲載の論文も読むことがありました．
+この他，*American Sociological Review*，*Demography*，『社会学評論』『理論と方法』等掲載の論文も読むことがありました．
 :::
 
 ::: {.notice}
