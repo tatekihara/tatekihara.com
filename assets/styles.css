@@ -141,24 +141,27 @@ figcaption {
   line-height: 1.85;
 }
 
-/* 顔写真の下に置く日本語名 */
+/* 顔写真の下に置く氏名（漢字とローマ字を同じ濃さで併記） */
 .name-block {
   max-width: 260px;
   text-align: center;
   margin-top: 1rem;
 }
 
-.name-ja {
-  font-size: 1.18rem;
+.name-ja,
+.name-en {
+  font-size: 1.1rem;
   font-weight: 600;
-  letter-spacing: 0.04em;
-  color: #333;
+  color: #222;
+  line-height: 1.65;
 }
 
-.name-yomi {
-  font-size: 0.82rem;
-  color: #777;
-  letter-spacing: 0.06em;
+.name-ja {
+  letter-spacing: 0.05em;
+}
+
+.name-en {
+  letter-spacing: 0.01em;
 }
 
 @media (max-width: 767px) {
@@ -166,4 +169,149 @@ figcaption {
     margin-left: auto;
     margin-right: auto;
   }
+}
+
+/* ---- ページ共通 ---- */
+
+/* 見出し直下の補足（セクション名の日本語や説明） */
+.section-note {
+  margin-top: -0.5rem;
+  margin-bottom: 1.4rem;
+  font-size: 0.92rem;
+  color: #777;
+}
+
+.section-note p {
+  margin-bottom: 0;
+}
+
+/* ページ冒頭の案内文 */
+.page-intro {
+  font-size: 0.96rem;
+  color: #555;
+  margin-bottom: 2.2rem;
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid #eee;
+}
+
+.page-intro p:last-child {
+  margin-bottom: 0;
+}
+
+/* セクション見出し */
+main h2 {
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin-top: 2.8rem;
+  margin-bottom: 0.9rem;
+}
+
+main h2:first-of-type {
+  margin-top: 0;
+}
+
+/* ---- Publications ---- */
+
+/* 書影の見え方を整える */
+.pub-cover img {
+  border: none;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.16);
+}
+
+.pub-cover {
+  flex: 0 0 118px;
+}
+
+.pub {
+  border-bottom: none;
+  margin: 2rem 0;
+  padding-bottom: 0;
+}
+
+/* ---- Teaching: 写真を横並びに ---- */
+.photo-pair {
+  margin-top: 2.2rem;
+}
+
+.photo-pair figure {
+  margin-bottom: 0;
+}
+
+.photo-pair img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 3px;
+}
+
+/* ---- Courses Taught: 学期ごとのまとまり ---- */
+.term {
+  margin-bottom: 1.9rem;
+}
+
+.term h3 {
+  font-size: 1.02rem;
+  font-weight: 600;
+  color: #1a4f7a;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid #eee;
+}
+
+.term ul {
+  margin-bottom: 0;
+  padding-left: 1.1rem;
+}
+
+.term li {
+  margin-bottom: 0.18rem;
+  font-size: 0.97rem;
+}
+
+.legend {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #eee;
+  font-size: 0.87rem;
+  color: #777;
+}
+
+.legend p {
+  margin-bottom: 0;
+}
+
+/* ---- Info for Keio Students: 日本語のまとまり ---- */
+.ja-block {
+  margin-top: 1.6rem;
+  padding-left: 1.1rem;
+  border-left: 3px solid #e8e8e8;
+}
+
+.ja-block p:last-child {
+  margin-bottom: 0;
+}
+
+/* 締切など、注意して読ませたい告知 */
+.notice {
+  margin: 1.3rem 0;
+  padding: 0.9rem 1.1rem;
+  background: #f7f9fb;
+  border-left: 3px solid #1a4f7a;
+  font-size: 0.96rem;
+}
+
+.notice p:last-child {
+  margin-bottom: 0;
+}
+
+/* タブ内の節見出し */
+.lang-tabset h3 {
+  font-size: 1.18rem;
+  font-weight: 600;
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
+}
+
+.lang-tabset .tab-pane > h3:first-child {
+  margin-top: 0.6rem;
 }

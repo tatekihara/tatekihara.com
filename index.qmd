@@ -8,7 +8,7 @@ include-after-body: assets/lang-tabs.html
 ![](/wp-content/uploads/2021/12/cropped-tate_pic_2021_2_original-4-scaled-1.jpg){.rounded-circle width="100%"}
 
 ::: {.name-block}
-[木原　盾]{.name-ja}<br>[きはら　たて]{.name-yomi}
+[木原　盾]{.name-ja}<br>[KIHARA, Tate]{.name-en}
 :::
 
 Download [CV](https://www.dropbox.com/sh/m4zax98wu37zrss/AAAJtE4Z-C5C93talFagWIL4a?e=1&dl=0)

@@ -2,11 +2,13 @@
 title: "Publications"
 ---
 
-#### *Peer-Reviewed Journal Articles*
-
+::: {.page-intro}
 Click on the picture to be redirected to the online links of the articles and books. Feel free to e-mail if you cannot get institutional access to my publications. For all works, refer to my [CV](/cv/) or [researchmap](https://researchmap.jp/tkihara).
 
 +denotes advance online publication
+:::
+
+## Peer-Reviewed Journal Articles
 
 ::: {.pub}
 ::: {.pub-cover}
@@ -61,7 +63,11 @@ Jackson, Margot I., and **Tate Kihara**. 2019. "The Educational Gradient in Heal
 :::
 :::
 
-#### **Non Peer-Reviewed Writings**: *Book Chapters and Other Miscellaneous Publications*
+## Non Peer-Reviewed Writings
+
+::: {.section-note}
+Book chapters and other miscellaneous publications
+:::
 
 ::: {.pub}
 ::: {.pub-cover}

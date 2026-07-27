@@ -1,148 +1,128 @@
 ---
 title: "Courses Taught"
+include-after-body: ../../assets/lang-tabs.html
 ---
 
-::: {.grid}
-::: {.g-col-12 .g-col-md-6}
-
-**Fall 2025**
-
-Policy Management (UG_GIGA\* / 1Q / Mon 2 period)
-
-Social Dynamics (UG / 1Q / Tues 1–2 period)
-
-Population Dynamics (UG+G / 2Q / Tues 1st–2nd period)
-
-Research Seminar B1 (UG / Tues 4th period)
-
-Research Seminar B2 (UG / Tues 5th period)
-
-AP: Human Service and Community (G)
-
-**Spring 2025**
-
-Policy Management (UG / 1Q / Mon 2nd)
-
-Macroscopic Social Analysis (UG_GIGA\* / Tues 2nd period)
-
-Methodology Study (UG / 2Q / Mon 3rd–4th period)
-
-Research Seminar B1 (UG / Tues 4th period)
-
-Research Seminar B2 (UG / Tues 5th period)
-
-AP: Human Service and Community (G)
-
-**Fall 2024**
-
-Policy Management (UG_GIGA\* / 1Q / Mon 2nd period)
-
-Social Dynamics (UG / Mon 4th period)
-
-Population Dynamics (UG+G / Tues 2nd period)
-
-Research Seminar B1 (UG / Tues 4th period)
-
-Research Seminar B2 (UG / Tues 5th period)
-
-AP: Human Service and Community (G)
-
-**Spring 2024**
-
-Policy Management (UG / 1Q / Mon 2nd period)
-
-Methodology Study (UG / 2Q / Mon 4th and Thur 2nd period)
-
-Macroscopic Social Analysis (UG_GIGA\* / Tues 2nd period)
-
-Research Seminar B1 (UG / Tues 4th period)
-
-Research Seminar B2 (UG / Tues 5th period)
-
-AP: Human Service and Community (G)
-
-**Fall 2023**
-
-Social Dynamics (UG / Wed 2nd period)
-
-Population Dynamics (UG+G / Fri 2nd period)
-
-Research Seminar A (UG / Fri 4–5th period)
-
-AP: Human Service and Community (G)
-
-:::
-::: {.g-col-12 .g-col-md-6}
-
-**2025秋学期**
-
-総合政策学GIGA《英語での開講》（学部_GIGA / 学期前半 / 月2）
-
-社会動態論（学部 / 学期前半 / 火1・2）
-
-ポピュレーションダイナミクス（学部+院 / 学期後半 / 火1・2）
-
-研究会B1（学部 / 火4）
-
-研究会B2（学部 / 火5）
-
-APヒューマンサービスとコミュニティ（院）
-
-**2025春学期**
-
-総合政策学（学部 / 学期前半 / 月2）
-
-方法論探究（学部 / 学期後半 / 月3・4）
-
-社会構造分析GIGA《英語での開講》（学部_GIGA / 火2）
-
-研究会B1（学部 / 火4）
-
-研究会B2（学部 / 火5）
-
-APヒューマンサービスとコミュニティ（院）
-
-**2024秋学期**
-
-総合政策学GIGA《英語での開講》（学部_GIGA / 学期前半 / 月2）
-
-社会動態論（学部 / 月4）
-
-ポピュレーションダイナミクス（学部+院 / 火2）
-
-研究会B1（学部 / 火4）
-
-研究会B2（学部 / 火5）
-
-APヒューマンサービスとコミュニティ（院）
-
-**2024春学期**
-
-総合政策学（学部 / 学期前半 / 月2）
-
-方法論探究（学部 / 学期後半 / 月4・木2）
-
-社会構造分析GIGA《英語での開講》（学部_GIGA / 火2）
-
-研究会B1（学部 / 火4）
-
-研究会B2（学部 / 火5）
-
-APヒューマンサービスとコミュニティ（院）
-
-**2023秋学期**
-
-社会動態論（学部 / 水2）
-
-ポピュレーションダイナミクス（学部+院 / 金2）
-
-研究会A（学部 / 金4・5限）
-
-APヒューマンサービスとコミュニティ（院）
-
-:::
+::: {.panel-tabset .lang-tabset}
+
+## English
+
+::: {.term}
+### Fall 2025
+
+- Policy Management (UG_GIGA\* / 1Q / Mon 2 period)
+- Social Dynamics (UG / 1Q / Tues 1–2 period)
+- Population Dynamics (UG+G / 2Q / Tues 1st–2nd period)
+- Research Seminar B1 (UG / Tues 4th period)
+- Research Seminar B2 (UG / Tues 5th period)
+- AP: Human Service and Community (G)
 :::
 
-\* UG: Undergraduate; UG+G: Both undergraduate and graduate
+::: {.term}
+### Spring 2025
 
+- Policy Management (UG / 1Q / Mon 2nd)
+- Macroscopic Social Analysis (UG_GIGA\* / Tues 2nd period)
+- Methodology Study (UG / 2Q / Mon 3rd–4th period)
+- Research Seminar B1 (UG / Tues 4th period)
+- Research Seminar B2 (UG / Tues 5th period)
+- AP: Human Service and Community (G)
+:::
+
+::: {.term}
+### Fall 2024
+
+- Policy Management (UG_GIGA\* / 1Q / Mon 2nd period)
+- Social Dynamics (UG / Mon 4th period)
+- Population Dynamics (UG+G / Tues 2nd period)
+- Research Seminar B1 (UG / Tues 4th period)
+- Research Seminar B2 (UG / Tues 5th period)
+- AP: Human Service and Community (G)
+:::
+
+::: {.term}
+### Spring 2024
+
+- Policy Management (UG / 1Q / Mon 2nd period)
+- Methodology Study (UG / 2Q / Mon 4th and Thur 2nd period)
+- Macroscopic Social Analysis (UG_GIGA\* / Tues 2nd period)
+- Research Seminar B1 (UG / Tues 4th period)
+- Research Seminar B2 (UG / Tues 5th period)
+- AP: Human Service and Community (G)
+:::
+
+::: {.term}
+### Fall 2023
+
+- Social Dynamics (UG / Wed 2nd period)
+- Population Dynamics (UG+G / Fri 2nd period)
+- Research Seminar A (UG / Fri 4–5th period)
+- AP: Human Service and Community (G)
+:::
+
+::: {.legend}
+\* UG: Undergraduate; UG+G: Both undergraduate and graduate<br>
 \* GIGA courses are taught entirely in English
+:::
+
+## 日本語
+
+::: {.term}
+### 2025秋学期
+
+- 総合政策学GIGA《英語での開講》（学部_GIGA / 学期前半 / 月2）
+- 社会動態論（学部 / 学期前半 / 火1・2）
+- ポピュレーションダイナミクス（学部+院 / 学期後半 / 火1・2）
+- 研究会B1（学部 / 火4）
+- 研究会B2（学部 / 火5）
+- APヒューマンサービスとコミュニティ（院）
+:::
+
+::: {.term}
+### 2025春学期
+
+- 総合政策学（学部 / 学期前半 / 月2）
+- 方法論探究（学部 / 学期後半 / 月3・4）
+- 社会構造分析GIGA《英語での開講》（学部_GIGA / 火2）
+- 研究会B1（学部 / 火4）
+- 研究会B2（学部 / 火5）
+- APヒューマンサービスとコミュニティ（院）
+:::
+
+::: {.term}
+### 2024秋学期
+
+- 総合政策学GIGA《英語での開講》（学部_GIGA / 学期前半 / 月2）
+- 社会動態論（学部 / 月4）
+- ポピュレーションダイナミクス（学部+院 / 火2）
+- 研究会B1（学部 / 火4）
+- 研究会B2（学部 / 火5）
+- APヒューマンサービスとコミュニティ（院）
+:::
+
+::: {.term}
+### 2024春学期
+
+- 総合政策学（学部 / 学期前半 / 月2）
+- 方法論探究（学部 / 学期後半 / 月4・木2）
+- 社会構造分析GIGA《英語での開講》（学部_GIGA / 火2）
+- 研究会B1（学部 / 火4）
+- 研究会B2（学部 / 火5）
+- APヒューマンサービスとコミュニティ（院）
+:::
+
+::: {.term}
+### 2023秋学期
+
+- 社会動態論（学部 / 水2）
+- ポピュレーションダイナミクス（学部+院 / 金2）
+- 研究会A（学部 / 金4・5限）
+- APヒューマンサービスとコミュニティ（院）
+:::
+
+::: {.legend}
+\* 学部：学部科目、学部+院：学部・大学院共通科目<br>
+\* GIGA科目はすべて英語で開講
+:::
+
+:::

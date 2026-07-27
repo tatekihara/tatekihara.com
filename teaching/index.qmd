@@ -6,6 +6,13 @@ I have been teaching sociology and demography courses as an Assistant Professor 
 
 See the full list of courses I offer at Keio [here](/teaching/classes-担当授業/). For prospective students, including Keio students who want to make me their graduation project advisor, please see [here](/teaching/keio_students/).
 
+::: {.photo-pair}
+::: {.grid}
+::: {.g-col-12 .g-col-sm-6}
 ![Keio University Shonan Fujisawa Campus](/wp-content/uploads/2023/09/SFC_キャンパス-scaled.jpg)
-
+:::
+::: {.g-col-12 .g-col-sm-6}
 ![Brown University (Photo by [Yifan Shen](https://yifanshen.weebly.com))](/wp-content/uploads/2023/08/366330397_1119904992318518_1783859321746017563_n.jpg)
+:::
+:::
+:::
