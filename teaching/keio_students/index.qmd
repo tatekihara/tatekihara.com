@@ -1,5 +1,5 @@
 ---
-title: "Info for Keio Students"
+title: "For Keio SFC Students ／ SFC生向け情報"
 include-after-body: ../../assets/lang-tabs.html
 ---
 

@@ -7,6 +7,7 @@ project:
     - "CNAME"
     - "lectures-and-seminars-講義・研究会/**"
     - "japanese/**"
+    - "sfc/**"
 
 website:
   title: "Tate Kihara"
@@ -24,8 +25,8 @@ website:
             text: Teaching
           - href: "teaching/classes-担当授業/index.qmd"
             text: Courses Taught
-          - href: teaching/keio_students/index.qmd
-            text: Info for Keio Students
+      - href: teaching/keio_students/index.qmd
+        text: "For SFC Students ／ SFC生向け"
       - href: cv/index.qmd
         text: "CV & Contact"
   page-footer:
