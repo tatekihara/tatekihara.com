@@ -1,0 +1,15 @@
+# Quarto のビルド生成物
+/_site/
+/.quarto/
+*_files/
+
+# macOS
+.DS_Store
+._*
+
+# エディタ
+.vscode/
+*.swp
+
+# 一時ファイル
+/tmp/
