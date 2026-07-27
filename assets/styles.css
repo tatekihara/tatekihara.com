@@ -342,3 +342,14 @@ main h2:first-of-type {
   margin-top: 2rem;
   margin-bottom: 0.6rem;
 }
+
+/* 文献一覧のあとの補足 */
+.readings-note {
+  margin-top: 0.9rem;
+  font-size: 0.92rem;
+  color: #666;
+}
+
+.readings-note p {
+  margin-bottom: 0;
+}
