@@ -315,3 +315,30 @@ main h2:first-of-type {
 .lang-tabset .tab-pane > h3:first-child {
   margin-top: 0.6rem;
 }
+
+/* 読んだ文献の一覧 */
+.readings ul {
+  padding-left: 0;
+  list-style: none;
+  margin-bottom: 0;
+}
+
+.readings li {
+  padding: 0.5rem 0 0.5rem 1.1rem;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 0.95rem;
+  line-height: 1.7;
+  text-indent: -1.1rem;
+}
+
+.readings li:last-child {
+  border-bottom: none;
+}
+
+.lang-tabset h4 {
+  font-size: 1.02rem;
+  font-weight: 600;
+  color: #444;
+  margin-top: 2rem;
+  margin-bottom: 0.6rem;
+}
