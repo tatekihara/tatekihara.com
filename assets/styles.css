@@ -140,3 +140,30 @@ figcaption {
   margin-bottom: 0.55em;
   line-height: 1.85;
 }
+
+/* 顔写真の下に置く日本語名 */
+.name-block {
+  max-width: 260px;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.name-ja {
+  font-size: 1.18rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: #333;
+}
+
+.name-yomi {
+  font-size: 0.82rem;
+  color: #777;
+  letter-spacing: 0.06em;
+}
+
+@media (max-width: 767px) {
+  .name-block {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
