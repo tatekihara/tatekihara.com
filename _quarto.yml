@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: _site
+  # WordPress 由来のファイルはビルドせずそのままコピーする（URL を維持するため）
+  resources:
+    - "wp-content/**"
+    - "CNAME"
+    - "lectures-and-seminars-講義・研究会/**"
+
+website:
+  title: "Tate Kihara"
+  site-url: "https://tatekihara.com"
+  favicon: /wp-content/uploads/2021/12/cropped-tate_pic_2021_2_original-4-scaled-1.jpg
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: publications/index.qmd
+        text: Publications
+      - text: Teaching
+        menu:
+          - href: teaching/index.qmd
+            text: Teaching
+          - href: "teaching/classes-担当授業/index.qmd"
+            text: Courses Taught
+          - href: teaching/keio_students/index.qmd
+            text: Info for Keio Students
+      - href: cv/index.qmd
+        text: "CV & Contact"
+      - href: japanese/index.qmd
+        text: "略歴（in Japanese）"
+  page-footer:
+    center: "© Tate Kihara"
+
+format:
+  html:
+    theme: cosmo
+    css: assets/styles.css
+    toc: false
+    anchor-sections: false
+    link-external-newwindow: true

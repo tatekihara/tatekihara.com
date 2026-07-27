@@ -1,0 +1,25 @@
+---
+title: "Info for Keio Students"
+---
+
+###### **Research Seminars | Kenkyūkai:**
+
+In Research Seminar B1, we will read books and papers focused on nurturing theoretical insight and methodological skills. The end is to advance your own individual research. During the seminar, you may choose any topic as long as you frame your research questions within sociology and/or demography. Methodologically, participants are free to use qualitative methods, quantitative methods, or a combination of both, as long as they suit your topic and research question. Research Seminar B2 is an intensive reading seminar where you will be assigned sociology and demography papers to read and discuss. The goal is for you to eventually write your own academic papers.
+
+\*Application for AY2025-spring research seminar will be due on **Friday, February 21, 2025**. Please check the specific details in the syllabi for [B1](https://gslbs.keio.jp/syllabus/detail?ttblyr=2025&entno=42149&lang=jp) and [B2](https://gslbs.keio.jp/syllabus/detail?ttblyr=2025&entno=42153&lang=jp), and apply via email. Applications from freshmen and sophomore students are welcomed.
+
+研究会B1では理論や方法論に関する文献を読みながら個人研究をすすめます。テーマは自由ですが、社会学や人口学の枠組みで問いを設定することを求めます。方法論は定性的手法、定量的手法、その組み合わせ等、問いにあったものであれば、自由です。研究会B2はアカデミックな論文が読める/書けるようになることを目標に、社会学や人口学の論文を多読します。
+
+\*2025年度春学期の研究会履修申込締切は**2025年2月21日（金）**です。[B1](https://gslbs.keio.jp/syllabus/detail?ttblyr=2025&entno=42149&lang=jp)と[B2](https://gslbs.keio.jp/syllabus/detail?ttblyr=2025&entno=42153&lang=jp)それぞれのシラバスで具体的な内容を確認して、メールで申込ください。1−2年生からの積極的な応募を期待します。定員に満たない場合、締切後の受付もする可能性があります。お問い合わせください。
+
+###### **Graduation Project | Sotsugyō purojekuto:**
+
+If you would like me to be your mentor for your graduation project, please contact me after confirming through Shonan Fujisawa Campus Registrar that you are able to register for my graduation project course.
+
+As a general rule, besides meeting the requirements set by the SFC Registrar, you should have started participating in my research seminar (Kenkyūkai) by the semester before registering for your Graduation Project 1 (Sotsugyō purojekuto 1). Taking at least one of my courses (Macroscopic Social Analysis, Social Dynamics, Population Dynamics and Methodology Study) before starting your senior year is highly recommended.
+
+私を卒業プロジェクトのメンターにしたい方は、私の卒業プロジェクトを履修できることを学事に確認してからご連絡ください。
+
+原則として、卒業プロジェクトの履修規定を満たしていることに加え、卒業プロジェクト1の履修前の学期までに私の研究会に参加をした上で、卒業プロジェクトの方向性に関して私の了解を得ていることを条件とします。私の講義科目（社会構造分析、社会動態論、ポピュレーションダイナミクス、方法論探究）のうち、最低1科目を4年生開始前までに履修しておくことを強くお勧めします。
+
+また、4年生になるまでに、私の授業に限らず、方法論探究・質的調査法・社会科学の計量分析・データサイエンス系列の授業など、社会科学分野の研究方法論に関するSFCや三田での講義を履修して、研究方法論に関する学びを始めていることが前提となります。

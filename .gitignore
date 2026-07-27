@@ -13,3 +13,5 @@
 
 # 一時ファイル
 /tmp/
+
+**/*.quarto_ipynb

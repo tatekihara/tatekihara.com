@@ -1,0 +1,126 @@
+---
+title: "Publications"
+---
+
+#### *Peer-Reviewed Journal Articles*
+
+Click on the picture to be redirected to the online links of the articles and books. Feel free to e-mail if you cannot get institutional access to my publications. For all works, refer to my [CV](/cv/) or [researchmap](https://researchmap.jp/tkihara).
+
++denotes advance online publication
+
+::: {.pub}
+::: {.pub-cover}
+[![](/wp-content/uploads/2024/05/m_coverimage-1.png)](https://read.dukeupress.edu/demography/article/doi/10.1215/00703370-11370115/387961/Social-Mobility-Across-the-Pacific-An-Analysis-of?guestAccessKey=daafe79a-b043-467a-8674-f67e0f035638)
+:::
+::: {.pub-text}
+**Kihara, Tate**. 2024. "Social Mobility Across the Pacific: An Analysis of Japanese Americans in the Continental United States." ***Demography*** 61 (3): 849–878. doi: 10.1215/00703370-11370115. \[Click [here](/wp-content/uploads/2025/01/Kihara_2024_Demography.pdf) for free pdf\]
+
+- Winner, Population Association of Japan Best Paper Award (Yushū ronbun-shō), 2026
+- Winner, Japan Sociological Society Encouragement Award (Shōrei-shō, Early-Career Research Award), 2025. \[[日本社会学会奨励賞選評（日本社会学会ニュース No.246, p.22）](https://jss-sociology.org/wp/wp-content/uploads/2026/02/jss_news246.pdf#page=22)\]
+- Honorable Mention, American Sociological Association Asia and Asian American Section Research Paper Award, 2025
+:::
+:::
+
+::: {.pub}
+::: {.pub-cover}
+[![](/wp-content/uploads/2024/12/ijjs.v33.1.cover-2.jpg)](https://onlinelibrary.wiley.com/toc/27691357/2023/32/1)
+:::
+::: {.pub-text}
+Nagayoshi Kikuko and **Tate Kihara**. 2023. "Economic achievement of immigrants in Japan: Examining the role of country-of-origin and host-country-specific human capital in an inflexible labor market." ***Japanese Journal of Sociology*** 32 (1): 69–95. doi: 10.1111/ijjs.12149.
+:::
+:::
+
+::: {.pub}
+::: {.pub-cover}
+[![](/wp-content/uploads/2025/12/showCoverImage-4.jpeg)](https://www.tandfonline.com/doi/full/10.1080/1369183X.2021.1963219)
+:::
+::: {.pub-text}
+**Kihara, Tate.** 2022. "Socioeconomic Selectivity of Japanese Migration to the Continental United States During the Age of Mass Migration." ***Journal of Ethnic and Migration Studies*** 48 (11): 2577–2600. doi: 10.1080/1369183X.2021.1963219.
+
+- Winner, Social Science Japan Data Archive Excellent Paper Award, Institute of Social Science, The University of Tokyo, March 2022
+:::
+:::
+
+::: {.pub}
+::: {.pub-cover}
+[![](/wp-content/uploads/2025/12/mrxa_59_4.webp)](https://journals.sagepub.com/doi/full/10.1177/01979183211041543)
+:::
+::: {.pub-text}
+**Kihara, Tate.** 2022. "The Life Course Origins of the Immigrant Advantage? Parental Nativity, Parental Education, and Academic Achievement Gaps From Kindergarten to High School in the United States." ***International Migration Review*** 56 (2): 463–98. doi: [10.1177/01979183211041543](https://doi.org/10.1177/01979183211041543).
+
+- Winner, Alden Speare, Jr. Award, Department of Sociology, Brown University, May 2019 \[as a MA thesis\]
+:::
+:::
+
+::: {.pub}
+::: {.pub-cover}
+[![](/assets/covers/prpr_cover.jpg)](https://link.springer.com/article/10.1007/s11113-019-09558-7)
+:::
+::: {.pub-text}
+Jackson, Margot I., and **Tate Kihara**. 2019. "The Educational Gradient in Health Among Children in Immigrant Families." ***Population Research and Policy Review*** 38 (6): 869–897. doi: 10.1007/s11113-019-09558-7.
+:::
+:::
+
+#### **Non Peer-Reviewed Writings**: *Book Chapters and Other Miscellaneous Publications*
+
+::: {.pub}
+::: {.pub-cover}
+[![](/wp-content/uploads/2024/12/book_cover.png)](https://www.keio-up.co.jp/mita/202412/)
+:::
+::: {.pub-text}
+**Kihara, Tate.** 2024. "Tracing the Footsteps of Japanese Emigrants Using Historical Data." ***Mita Hyōron*** 1294: 75.
+
+Published in Japanese: 木原盾, 2024,「歴史データで辿る日系移民の足跡」『三田評論』1294: 75.
+:::
+:::
+
+::: {.pub}
+::: {.pub-cover}
+[![](/assets/covers/akashi_imin_togo.jpg)](https://www.akashi.co.jp/book/b584325.html)
+:::
+::: {.pub-text}
+**Kihara, Tate.** 2021. "Who intends to migrate permanently? Settlement plans of immigrants in Japan." Pp. 206–229 in ***Immigrant Integration in Japan: Current Status and Challenges***, edited by K. Nagayoshi. Tokyo, Japan: Akashi Shoten.
+
+Published in Japanese: 木原盾, 2021,「誰が永住を予定しているのか――日本で暮らす移民の滞在予定」永吉希久子編『日本の移民統合――全国調査から見る現況と障壁』明石書店, 206–229.
+:::
+:::
+
+::: {.pub}
+::: {.pub-cover}
+![](/assets/covers/utp_global.jpg)
+:::
+::: {.pub-text}
+**Kihara, Tate.** 2021. "The Current Status of Quantitative Research on Children of Immigrants: Comparing Japan and the United States." Pp. 22–23 in ***The Japanese Educational Challenge in a New Global Era: Multicultural Society from a Comparative Education Worldview***, edited by R. Tsuneyoshi and M. Nukaga. Tokyo: The University of Tokyo Press.
+
+Published in Japanese: 木原盾, 2021,「移民の子どもの定量的研究の現状と課題――日米比較から」恒吉僚子・額賀美紗子編『新グローバル時代に挑む日本の教育――多文化社会を考える比較教育学の視座』東京大学出版会, 22–23.
+:::
+:::
+
+::: {.pub}
+::: {.pub-cover}
+![](/assets/covers/routledge_globalization.jpg)
+:::
+::: {.pub-text}
+Tsuneyoshi, Ryoko, Fumiko Takahashi, Hideki Ito, Seulbi Lee, Maiko Sumino, **Tate Kihara**, Satsuki Kubodera, and Hikaru Ishiwata. 2017. "Japanese Schooling and the Global and Multicultural Challenge: Globalization from Below." Pp. 190–213 in ***Globalization and Japanese "Exceptionalism" in Education: Insider's Views into a Changing System***, edited by R. Tsuneyoshi. Abingdon, United Kingdom: Routledge.
+:::
+:::
+
+::: {.pub}
+::: {.pub-cover}
+[![](/wp-content/uploads/2025/05/normal_64b7d65f-e96f-45ee-9d5a-86bf596f3f0b.jpg)](https://www.keisoshobo.co.jp/book/b193739.html)
+:::
+::: {.pub-text}
+**Kihara, Tate**, Masaya Ueno, and Mayu Kawazoe. 2015. "Comparing Xenophobia against the Chinese: Validating Contact Hypothesis in Six Asian Countries." Pp. 87–109 in ***Linkage and Estrangement in East Asia***, edited by S. Sonoda. Tokyo, Japan: Keiso Shobo.
+
+Published in Japanese: 木原盾・上野雅哉・川添真友, 2015,「越境する中国への受容と反発──アジア六カ国のデータから問い直す接触仮説」園田茂人編『連携と離反の東アジア』勁草書房.
+:::
+:::
+
+::: {.pub}
+::: {.pub-cover}
+[![](/wp-content/uploads/2024/11/Screenshot-2024-11-22-at-11.00.09.png)](https://www.schoolexcellence.p.u-tokyo.ac.jp/wp/wp-content/uploads/2015/10/★学校教育高度化センター-研究紀要-第１号%E3%80%802015.pdf)
+:::
+::: {.pub-text}
+**Kihara, Tate**. 2015. "Incorporating Foreign Students in Japanese Public Schools: The Case Study of Two Elementary Schools in Gunma." ***Center for Excellence in School Education, Graduate School of Education, the University of Tokyo, Research Bulletin*** 1: 203–217.
+:::
+:::
