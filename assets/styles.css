@@ -400,3 +400,32 @@ main h2:first-of-type {
   border-bottom: none;
   padding-bottom: 0;
 }
+
+/* 巻頭図版（海外在留内地人） */
+.map-figure {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid #eee;
+}
+
+.map-figure img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 1px solid #e2ded0;
+}
+
+.map-figure p {
+  margin: 0;
+}
+
+.map-caption {
+  margin-top: 0.7rem;
+  font-size: 0.85rem;
+  line-height: 1.7;
+  color: #777;
+}
+
+.map-caption p {
+  margin: 0;
+}
