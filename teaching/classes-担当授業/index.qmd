@@ -121,7 +121,7 @@ include-after-body: ../../assets/lang-tabs.html
 :::
 
 ::: {.legend}
-\* 学部：学部科目、学部+院：学部・大学院共通科目<br>
+\* 学部：学部科目，学部+院：学部・大学院共通科目<br>
 \* GIGA科目はすべて英語で開講
 :::
 
