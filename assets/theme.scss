@@ -9,6 +9,35 @@ $grid-sidebar-width: 220px;
 // リンクの色を落ち着いた青に
 $link-color: #1a4f7a;
 
+// 書体。cosmo の既定は Source Sans Pro だが、丸みのある humanist 系で
+// やや個性が強い。github.com 自身が使っているシステムフォント構成に置き換える。
+// 外部フォントを読み込まないので表示が速く、和文は OS 標準（Hiragino / 游ゴシック）
+// に落ちるため、英日が混在しても崩れない。
+$font-family-sans-serif:
+  -apple-system,
+  BlinkMacSystemFont,
+  "Segoe UI",
+  "Noto Sans",
+  "Helvetica Neue",
+  Arial,
+  "Hiragino Sans",
+  "Hiragino Kaku Gothic ProN",
+  "Yu Gothic",
+  Meiryo,
+  sans-serif,
+  "Apple Color Emoji",
+  "Segoe UI Emoji";
+
+// 等幅（コードや URL の表示用）も GitHub に合わせる
+$font-family-monospace:
+  ui-monospace,
+  SFMono-Regular,
+  "SF Mono",
+  Menlo,
+  Consolas,
+  "Liberation Mono",
+  monospace;
+
 /*-- scss:rules --*/
 
 // 本文が短いページでフッターまで空きすぎないようにする

@@ -28,8 +28,6 @@ website:
             text: Info for Keio Students
       - href: cv/index.qmd
         text: "CV & Contact"
-      - href: "/#japanese"
-        text: "略歴（in Japanese）"
   page-footer:
     center: "© Tate Kihara"
 
