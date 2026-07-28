@@ -12,6 +12,8 @@ include-after-body: assets/lang-tabs.html
 :::
 
 Download [CV](/files/Kihara_CV.pdf)
+
+[Google Scholar](https://scholar.google.com/citations?user=IvuSmWkAAAAJ)<br>[ORCID](https://orcid.org/0000-0003-3326-8444) ・ [researchmap](https://researchmap.jp/tkihara)
 :::
 
 ::: {.g-col-12 .g-col-md-8}
@@ -28,7 +30,7 @@ Sociologist and social demographer by training, my research examines internation
 
 Born in Kyoto, Japan, I have received my education in Japan, Canada, and the United States. Prior to starting my current position, I was a [Japan Society for the Promotion of Science (JSPS) Postdoctoral Research Fellow](https://www.jsps.go.jp/english/e-pd/) at the [Institute of Social Science, The University of Tokyo](https://www.iss.u-tokyo.ac.jp). I received my Ph.D. from Brown University in Providence, RI, and my M.A. and B.A. from The University of Tokyo.
 
-You can reach me at tkihara![](/wp-content/uploads/2021/08/at.jpg){width="14px"}keio.jp
+You can reach me at tkihara@keio.jp
 
 ## 日本語
 
@@ -40,9 +42,9 @@ You can reach me at tkihara![](/wp-content/uploads/2021/08/at.jpg){width="14px"}
 
 ::: {.bio-fields}
 
-**研究業績**：[researchmap](https://researchmap.jp/tkihara)
+**研究業績**：[researchmap](https://researchmap.jp/tkihara)・[Google Scholar](https://scholar.google.com/citations?user=IvuSmWkAAAAJ)・[ORCID](https://orcid.org/0000-0003-3326-8444)
 
-**Email**：tkihara![](/wp-content/uploads/2021/08/at.jpg){width="14px"}sfc.keio.ac.jp
+**Email**：tkihara@sfc.keio.ac.jp
 
 **ブログ**：<https://tkihara.hatenablog.com>
 

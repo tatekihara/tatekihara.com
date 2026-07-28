@@ -4,7 +4,7 @@ title: "Teaching"
 
 I have been teaching sociology and demography courses as an Assistant Professor (i.e., rank of 専任講師 in Japanese) at Keio University Shonan Fujisawa Campus in Kanagawa, Japan since fall 2023, both at the undergraduate and graduate levels, and in both Japanese and English. Prior to moving to Keio, I have also experienced teaching as a Teaching Assistant at Brown University in the US.
 
-See the full list of courses I offer at Keio [here](/teaching/classes-担当授業/). For prospective students, including Keio students who want to make me their graduation project advisor, please see [here](/teaching/keio_students/).
+See [the full list of courses I offer at Keio](/teaching/classes-担当授業/). For prospective students, including Keio students who want to make me their graduation project advisor, please see [the information for SFC students](/teaching/keio_students/).
 
 ::: {.photo-pair}
 ::: {.grid}
