@@ -2,15 +2,15 @@
 title: "CV & Contact"
 ---
 
-Download my [CV as a PDF](/files/Kihara_CV.pdf), or browse it below.
-
-(CV last updated Mar 3 2026)
-
 **Email**: tkihara@keio.jp
 
 **Address**: Keio University Shonan Fujisawa Campus, 5322 Endo, Fujisawa, Kanagawa 252-0882, Japan
 
 **Profiles**: [Google Scholar](https://scholar.google.com/citations?user=IvuSmWkAAAAJ) ・ [ORCID](https://orcid.org/0000-0003-3326-8444) ・ [researchmap](https://researchmap.jp/tkihara)
+
+Download my [CV as a PDF](/files/Kihara_CV.pdf), or browse it below.
+
+(CV last updated Mar 3 2026)
 
 ```{=html}
 <object data="/files/Kihara_CV.pdf" type="application/pdf" style="width: 100%; height: 90vh; min-height: 600px; margin-top: 1rem; border: 1px solid #dee2e6;">
