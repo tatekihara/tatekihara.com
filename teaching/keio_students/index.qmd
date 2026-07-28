@@ -47,7 +47,7 @@ include-after-body: ../../assets/lang-tabs.html
 ::::
 
 ::: {.notice}
-\*2026年度秋学期の研究会履修申込締切は**2026年8月18日（火）23:59（日本時間）**です．[B1](https://gslbs.keio.jp/syllabus/detail?ttblyr=2026&entno=08038&lang=jp)と[B2](https://gslbs.keio.jp/syllabus/detail?ttblyr=2026&entno=08042&lang=jp)それぞれのシラバスで具体的な内容を確認して，メールで申込ください．1−2年生からの積極的な応募を期待します．定員に満たない場合，締切後の受付もする可能性があります．お問い合わせください．
+\*2026年度秋学期の研究会履修申込締切は**2026年8月18日（火）23:59（日本時間）**です．[B1](https://gslbs.keio.jp/syllabus/detail?ttblyr=2026&entno=08038&lang=jp)と[B2](https://gslbs.keio.jp/syllabus/detail?ttblyr=2026&entno=08042&lang=jp)それぞれのシラバスで具体的な内容を確認して，K-LMS上で申込ください．1−2年生からの積極的な応募を期待します．定員に満たない場合，締切後の受付もする可能性があります．お問い合わせください．
 :::
 
 ### 卒業プロジェクト {#sotsupro}
@@ -100,7 +100,7 @@ We have also read journal articles from *American Sociological Review*, *Demogra
 ::::
 
 ::: {.notice}
-\*Application for AY2026-fall research seminar is due on **Tuesday, August 18, 2026, 23:59 (JST)**. Please check the specific details in the syllabi for [B1](https://gslbs.keio.jp/syllabus/detail?ttblyr=2026&entno=08038&lang=jp) and [B2](https://gslbs.keio.jp/syllabus/detail?ttblyr=2026&entno=08042&lang=jp), and apply via email. Applications from freshmen and sophomore students are welcomed.
+\*Application for AY2026-fall research seminar is due on **Tuesday, August 18, 2026, 23:59 (JST)**. Please check the specific details in the syllabi for [B1](https://gslbs.keio.jp/syllabus/detail?ttblyr=2026&entno=08038&lang=jp) and [B2](https://gslbs.keio.jp/syllabus/detail?ttblyr=2026&entno=08042&lang=jp), and apply via K-LMS. Applications from freshmen and sophomore students are welcomed.
 :::
 
 ### Graduation Project {#graduation-project}
