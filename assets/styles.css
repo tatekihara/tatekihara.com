@@ -389,11 +389,9 @@ p:has(> .campus-photo) {
   text-decoration: underline;
 }
 
-/* 締めの補足は罫線で区切って一回り小さく */
+/* 締めの補足は一回り小さく */
 .readings .readings-note {
-  margin-top: 1.2rem;
-  padding-top: 0.9rem;
-  border-top: 1px solid #e4e9f0;
+  margin-top: 1.1rem;
   font-size: 0.92rem;
   color: #666;
 }
