@@ -38,7 +38,7 @@ include-after-body: ../../assets/lang-tabs.html
 
 - de Haas, Hein, 2024, *[How Migration Really Works: 22 Things You Need to Know About the Most Divisive Issue in Politics](https://www.kinokuniya.co.jp/f/dsg-02-9780241998779)*, Penguin Books.
 - 永吉希久子，2020，『[移民と日本社会――データで読み解く実態と将来像](https://www.chuko.co.jp/shinsho/2020/02/102580.html)』中央公論新社．
-- 是川夕，2025，『[ニッポンの移民](https://www.chikumashobo.co.jp/product/9784480077103/)』筑摩書房．
+- 是川夕，2025，『[ニッポンの移民――増え続ける外国人とどう向き合うか](https://www.chikumashobo.co.jp/product/9784480077103/)』筑摩書房．
 - 水野直樹・文京洙，2015，『[在日朝鮮人――歴史と現在](https://www.iwanami.co.jp/book/b226315.html)』岩波書店．
 
 ::: {.readings-note}
@@ -91,7 +91,7 @@ Migration and ethnicity
 
 - de Haas, Hein, 2024, *[How Migration Really Works: 22 Things You Need to Know About the Most Divisive Issue in Politics](https://www.kinokuniya.co.jp/f/dsg-02-9780241998779)*, Penguin Books.
 - 永吉希久子，2020，『[移民と日本社会――データで読み解く実態と将来像](https://www.chuko.co.jp/shinsho/2020/02/102580.html)』中央公論新社．
-- 是川夕，2025，『[ニッポンの移民](https://www.chikumashobo.co.jp/product/9784480077103/)』筑摩書房．
+- 是川夕，2025，『[ニッポンの移民――増え続ける外国人とどう向き合うか](https://www.chikumashobo.co.jp/product/9784480077103/)』筑摩書房．
 - 水野直樹・文京洙，2015，『[在日朝鮮人――歴史と現在](https://www.iwanami.co.jp/book/b226315.html)』岩波書店．
 
 ::: {.readings-note}
