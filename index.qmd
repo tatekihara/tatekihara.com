@@ -11,7 +11,7 @@ include-after-body: assets/lang-tabs.html
 [木原　盾]{.name-ja}<br>[KIHARA, Tate]{.name-en}
 :::
 
-Download [CV](https://www.dropbox.com/sh/m4zax98wu37zrss/AAAJtE4Z-C5C93talFagWIL4a?e=1&dl=0)
+Download [CV](/files/Kihara_CV.pdf)
 :::
 
 ::: {.g-col-12 .g-col-md-8}

@@ -5,6 +5,8 @@ project:
   resources:
     - "wp-content/**"
     - "CNAME"
+    - "robots.txt"
+    - "files/**"
     - "lectures-and-seminars-講義・研究会/**"
     - "japanese/**"
     - "sfc/**"

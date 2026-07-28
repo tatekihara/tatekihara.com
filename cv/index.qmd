@@ -2,8 +2,14 @@
 title: "CV & Contact"
 ---
 
-Please download my CV [here](https://www.dropbox.com/sh/m4zax98wu37zrss/AAAJtE4Z-C5C93talFagWIL4a?dl=0).
+Download my [CV as a PDF](/files/Kihara_CV.pdf), or browse it below.
 
-(CV last updated Feb 3 2026)
+(CV last updated Mar 3 2026)
 
 **Email**: tkihara![](/wp-content/uploads/2021/08/at.jpg){width="14px"}keio.jp
+
+```{=html}
+<object data="/files/Kihara_CV.pdf" type="application/pdf" style="width: 100%; height: 90vh; min-height: 600px; margin-top: 1rem; border: 1px solid #dee2e6;">
+  <p>Your browser cannot display the PDF here. Please use the download link above.</p>
+</object>
+```
