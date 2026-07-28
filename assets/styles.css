@@ -1,0 +1,430 @@
+/* 本文の読みやすさ */
+body {
+  font-size: 1.06rem;
+  line-height: 1.78;
+}
+
+main p {
+  margin-bottom: 1.1em;
+}
+
+/* 業績リスト: 書影を左、書誌情報を右に並べる */
+.pub {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  margin: 2.2rem 0;
+  padding-bottom: 2.2rem;
+  border-bottom: 1px solid #e9e9e9;
+}
+
+.pub:last-child {
+  border-bottom: none;
+}
+
+.pub-cover {
+  flex: 0 0 130px;
+}
+
+.pub-cover img {
+  width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+}
+
+.pub-cover p {
+  margin: 0;
+}
+
+.pub-text {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.pub-text p:first-child {
+  margin-top: 0;
+}
+
+.pub-text ul {
+  margin-top: 0.6em;
+  font-size: 0.94em;
+  color: #555;
+}
+
+/* 画面が狭いときは縦積みにする */
+@media (max-width: 640px) {
+  .pub {
+    flex-direction: column;
+    gap: 0.9rem;
+  }
+  .pub-cover {
+    flex: 0 0 auto;
+    max-width: 150px;
+  }
+}
+
+/* メールアドレスの @ 画像を文字のベースラインに揃える */
+.pub-text img[width="14"],
+main img[width="14"] {
+  vertical-align: baseline;
+  display: inline;
+}
+
+/* 図版のキャプション */
+figcaption {
+  font-size: 0.9em;
+  color: #666;
+}
+
+/* トップページの顔写真ブロック */
+.profile {
+  padding-right: 1.2rem;
+}
+
+.profile img {
+  display: block;
+  width: 100%;
+  max-width: 260px;
+  height: auto;
+}
+
+.profile p {
+  max-width: 260px;
+  text-align: center;
+  margin-top: 0.9rem;
+  font-size: 0.95em;
+}
+
+@media (max-width: 767px) {
+  .profile img,
+  .profile p {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .profile {
+    padding-right: 0;
+  }
+}
+
+/* About ページの言語タブ */
+.lang-tabset > .nav-tabs {
+  border-bottom: 1px solid #dee2e6;
+  margin-bottom: 1.4rem;
+}
+
+.lang-tabset > .nav-tabs .nav-link {
+  padding: 0.45rem 1.1rem;
+  font-size: 0.95rem;
+  color: #6c757d;
+  border-radius: 0;
+}
+
+.lang-tabset > .nav-tabs .nav-link.active {
+  color: #1a4f7a;
+  font-weight: 600;
+  border-bottom-color: transparent;
+}
+
+.lang-tabset .tab-content {
+  padding-top: 0;
+}
+
+/* 日本語略歴の項目リスト */
+.bio-fields {
+  margin-top: 1.4rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid #eee;
+}
+
+.bio-fields p {
+  margin-bottom: 0.55em;
+  line-height: 1.85;
+}
+
+/* 顔写真の下に置く氏名（漢字とローマ字を同じ濃さで併記） */
+.name-block {
+  max-width: 260px;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.name-ja,
+.name-en {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #222;
+  line-height: 1.65;
+}
+
+.name-ja {
+  letter-spacing: 0.05em;
+}
+
+.name-en {
+  letter-spacing: 0.01em;
+}
+
+@media (max-width: 767px) {
+  .name-block {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* ---- ページ共通 ---- */
+
+/* 見出し直下の補足（セクション名の日本語や説明） */
+.section-note {
+  margin-top: -0.5rem;
+  margin-bottom: 1.4rem;
+  font-size: 0.92rem;
+  color: #777;
+}
+
+.section-note p {
+  margin-bottom: 0;
+}
+
+/* ページ冒頭の案内文 */
+.page-intro {
+  font-size: 0.96rem;
+  color: #555;
+  margin-bottom: 2.2rem;
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid #eee;
+}
+
+.page-intro p:last-child {
+  margin-bottom: 0;
+}
+
+/* セクション見出し */
+main h2 {
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin-top: 2.8rem;
+  margin-bottom: 0.9rem;
+}
+
+main h2:first-of-type {
+  margin-top: 0;
+}
+
+/* ---- Publications ---- */
+
+/* 書影の見え方を整える */
+.pub-cover img {
+  border: none;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.16);
+}
+
+.pub-cover {
+  flex: 0 0 118px;
+}
+
+.pub {
+  border-bottom: none;
+  margin: 2rem 0;
+  padding-bottom: 0;
+}
+
+/* ---- SFC生向け: 冒頭のキャンパス写真 ---- */
+.campus-photo {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+/* 写真とタブの間隔 */
+p:has(> .campus-photo) {
+  margin-bottom: 1.5rem;
+}
+
+/* ---- Courses Taught: 学期ごとのまとまり ---- */
+.term {
+  margin-bottom: 1.9rem;
+}
+
+.term h3 {
+  font-size: 1.02rem;
+  font-weight: 600;
+  color: #1a4f7a;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid #eee;
+}
+
+.term ul {
+  margin-bottom: 0;
+  padding-left: 1.1rem;
+}
+
+.term li {
+  margin-bottom: 0.18rem;
+  font-size: 0.97rem;
+}
+
+.legend {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #eee;
+  font-size: 0.87rem;
+  color: #777;
+}
+
+.legend p {
+  margin-bottom: 0;
+}
+
+/* ---- Info for Keio Students: 日本語のまとまり ---- */
+.ja-block {
+  margin-top: 1.6rem;
+  padding-left: 1.1rem;
+  border-left: 3px solid #e8e8e8;
+}
+
+.ja-block p:last-child {
+  margin-bottom: 0;
+}
+
+/* 締切など、注意して読ませたい告知 */
+.notice {
+  margin: 1.3rem 0;
+  padding: 0.9rem 1.1rem;
+  background: #f7f9fb;
+  border-left: 3px solid #1a4f7a;
+  font-size: 0.96rem;
+}
+
+.notice p:last-child {
+  margin-bottom: 0;
+}
+
+/* タブ内の節見出し */
+.lang-tabset h3 {
+  font-size: 1.18rem;
+  font-weight: 600;
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
+}
+
+.lang-tabset .tab-pane > h3:first-child {
+  margin-top: 0.6rem;
+}
+
+.lang-tabset h4 {
+  font-size: 1.02rem;
+  font-weight: 600;
+  color: #444;
+  margin-top: 2rem;
+  margin-bottom: 0.6rem;
+}
+
+/* ---- 輪読文献の一覧 ----
+   本文（研究会の説明・締切・卒プロ）と役割が違う参考情報なので、
+   見出し・グループ・補足ごと1つの囲みに入れて別枠に見せる。
+   リンクだらけのブロックのため、囲みの中だけ下線を消して
+   色で判別させる（ホバーで下線を出す）。 */
+.readings {
+  margin: 1.6rem 0 2rem;
+  padding: 1.4rem 1.7rem 1.2rem;
+  background: #f7f9fb;
+  border: 1px solid #e4e9f0;
+  border-radius: 6px;
+}
+
+.lang-tabset .readings h4 {
+  margin-top: 0;
+  margin-bottom: 0.2rem;
+  font-size: 1rem;
+  color: #333;
+}
+
+/* 小見出しは「次に来るリストの見出し」に見える必要がある。
+   上を広く、下を狭く取ることで、直前のリストから切り離して
+   直後のリストとまとまって見えるようにする。 */
+.readings-group {
+  margin: 1.5rem 0 0.35rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #333;
+}
+
+/* div で包まれた見出しテキストの段落マージンを打ち消す */
+.readings-group p {
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* 行頭のマーク（文字サイズではなく記号で見出しと分からせる） */
+.readings-group p::before {
+  content: "";
+  display: inline-block;
+  width: 0.5em;
+  height: 0.5em;
+  background: #1a4f7a;
+  margin-right: 0.5em;
+  vertical-align: 0.08em;
+}
+
+.readings ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.readings li {
+  padding: 0.28rem 0 0.28rem 1.1rem;
+  text-indent: -1.1rem;
+  font-size: 0.94rem;
+  line-height: 1.7;
+}
+
+.readings a {
+  text-decoration: none;
+}
+
+.readings a:hover {
+  text-decoration: underline;
+}
+
+/* 締めの補足は一回り小さく */
+.readings .readings-note {
+  margin-top: 1.1rem;
+  font-size: 0.92rem;
+  color: #666;
+}
+
+.readings-note p {
+  margin-bottom: 0;
+}
+
+/* 巻頭図版（海外在留内地人） */
+.map-figure {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid #eee;
+}
+
+.map-figure img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 1px solid #e2ded0;
+}
+
+.map-figure p {
+  margin: 0;
+}
+
+.map-caption {
+  margin-top: 0.7rem;
+  font-size: 0.85rem;
+  line-height: 1.7;
+  color: #777;
+}
+
+.map-caption p {
+  margin: 0;
+}
