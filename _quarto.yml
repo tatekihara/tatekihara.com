@@ -15,7 +15,7 @@ project:
 website:
   title: "Tate Kihara"
   site-url: "https://tatekihara.com"
-  favicon: /assets/favicon.png
+  favicon: assets/favicon.png
   navbar:
     left:
       - href: index.qmd
