@@ -20,7 +20,7 @@ include-after-body: ../../assets/lang-tabs.html
 ::: {.term}
 ### Spring 2026
 
-- Macroscopic Social Analysis (UG_GIGA\* / Tues 2nd period)
+- Macroscopic Social Analysis (UG_GIGA\* / Tues 1st–2nd period)
 - Methodology Study (UG / 2Q / Tues 1st–2nd period)
 - Research Seminar B1 (UG / Tues 4th period)
 - Research Seminar B2 (UG / Tues 5th period)
@@ -101,7 +101,7 @@ include-after-body: ../../assets/lang-tabs.html
 ### 2026春学期
 
 - 方法論探究（学部 / 学期後半 / 火1・2）
-- 社会構造分析GIGA《英語での開講》（学部_GIGA / 火2）
+- 社会構造分析GIGA《英語での開講》（学部_GIGA / 火1・2）
 - 研究会B1（学部 / 火4）
 - 研究会B2（学部 / 火5）
 - APヒューマンサービスとコミュニティ（院）
