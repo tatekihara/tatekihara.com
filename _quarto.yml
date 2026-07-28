@@ -8,6 +8,7 @@ project:
     - "robots.txt"
     - "files/**"
     - "lectures-and-seminars-講義・研究会/**"
+    - "teaching/index.html"
     - "japanese/**"
     - "sfc/**"
 
@@ -21,12 +22,8 @@ website:
         text: About
       - href: publications/index.qmd
         text: Publications
-      - text: Teaching
-        menu:
-          - href: teaching/index.qmd
-            text: Teaching
-          - href: "teaching/classes-担当授業/index.qmd"
-            text: Courses Taught
+      - href: "teaching/classes-担当授業/index.qmd"
+        text: Teaching
       - href: teaching/keio_students/index.qmd
         text: "SFC生向け / For SFC Students"
       - href: cv/index.qmd

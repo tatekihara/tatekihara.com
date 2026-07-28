@@ -228,20 +228,17 @@ main h2:first-of-type {
   padding-bottom: 0;
 }
 
-/* ---- Teaching: 写真を横並びに ---- */
-.photo-pair {
-  margin-top: 2.2rem;
-}
-
-.photo-pair figure {
-  margin-bottom: 0;
-}
-
-.photo-pair img {
+/* ---- SFC生向け: 冒頭のキャンパス写真 ---- */
+.campus-photo {
   width: 100%;
-  height: 220px;
+  height: 200px;
   object-fit: cover;
-  border-radius: 3px;
+  border-radius: 6px;
+}
+
+/* 写真とタブの間隔 */
+p:has(> .campus-photo) {
+  margin-bottom: 1.5rem;
 }
 
 /* ---- Courses Taught: 学期ごとのまとまり ---- */

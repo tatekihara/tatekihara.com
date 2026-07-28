@@ -1,5 +1,5 @@
 ---
-title: "Courses Taught"
+title: "Teaching"
 include-after-body: ../../assets/lang-tabs.html
 ---
 

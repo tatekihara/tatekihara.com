@@ -3,6 +3,8 @@ title: "SFC生向け情報 ／ For Keio SFC Students"
 include-after-body: ../../assets/lang-tabs.html
 ---
 
+![](/wp-content/uploads/2023/09/SFC_キャンパス-scaled.jpg){.campus-photo fig-alt="Keio University Shonan Fujisawa Campus"}
+
 ::: {.panel-tabset .lang-tabset}
 
 ## 日本語
