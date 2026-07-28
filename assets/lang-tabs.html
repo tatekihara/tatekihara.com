@@ -1,8 +1,10 @@
 <script>
-// About ページの言語タブ。
+// 言語タブの共通スクリプト。
 //   /#japanese で開く → 日本語タブを選択した状態で表示する
 //   タブを切り替える → URL の末尾を書き換え、その状態のまま共有・ブックマークできるようにする
 // 旧 /japanese/ の転送先もこの仕組みに乗せている。
+// タブの並び順はページごとに異なる（About は英語先、SFC生向けは日本語先）ため、
+// 固定インデックスではなくリンクの表示文字列で日本語タブを見つける。
 (function () {
   function init() {
     var tabset = document.querySelector('.panel-tabset.lang-tabset');
@@ -11,7 +13,17 @@
     var links = tabset.querySelectorAll('.nav-tabs .nav-link');
     if (links.length < 2) return;
 
-    var byHash = { '#japanese': links[1], '#english': links[0] };
+    var jaLink = null, enLink = null;
+    Array.prototype.forEach.call(links, function (link) {
+      if (link.textContent.trim() === '日本語') {
+        jaLink = link;
+      } else if (!enLink) {
+        enLink = link;
+      }
+    });
+    if (!jaLink || !enLink) return;
+
+    var byHash = { '#japanese': jaLink, '#english': enLink };
 
     function show(link) {
       if (!link || link.classList.contains('active')) return;
@@ -26,9 +38,9 @@
     show(byHash[window.location.hash]);
 
     // 切り替え時: URL を更新する（画面はスクロールさせない）
-    Array.prototype.forEach.call(links, function (link, i) {
+    Array.prototype.forEach.call(links, function (link) {
       link.addEventListener('shown.bs.tab', function () {
-        var hash = i === 1 ? '#japanese' : '#english';
+        var hash = link === jaLink ? '#japanese' : '#english';
         if (window.location.hash !== hash) {
           history.replaceState(null, '', window.location.pathname + hash);
         }

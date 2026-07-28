@@ -14,7 +14,7 @@ project:
 website:
   title: "Tate Kihara"
   site-url: "https://tatekihara.com"
-  favicon: /wp-content/uploads/2021/12/cropped-tate_pic_2021_2_original-4-scaled-1.jpg
+  favicon: /assets/favicon.png
   navbar:
     left:
       - href: index.qmd
@@ -28,7 +28,7 @@ website:
           - href: "teaching/classes-担当授業/index.qmd"
             text: Courses Taught
       - href: teaching/keio_students/index.qmd
-        text: "For SFC Students ／ SFC生向け"
+        text: "SFC生向け / For SFC Students"
       - href: cv/index.qmd
         text: "CV & Contact"
   page-footer:
