@@ -348,17 +348,27 @@ main h2:first-of-type {
    上を広く、下を狭く取ることで、直前のリストから切り離して
    直後のリストとまとまって見えるようにする。 */
 .readings-group {
-  margin: 1.4rem 0 0.3rem;
-  font-size: 0.82rem;
+  margin: 1.5rem 0 0.35rem;
+  font-size: 0.95rem;
   font-weight: 600;
-  letter-spacing: 0.06em;
-  color: #1a4f7a;
+  color: #333;
 }
 
 /* div で包まれた見出しテキストの段落マージンを打ち消す */
 .readings-group p {
   margin: 0;
-  line-height: 1.4;
+  line-height: 1.5;
+}
+
+/* 行頭のマーク（文字サイズではなく記号で見出しと分からせる） */
+.readings-group p::before {
+  content: "";
+  display: inline-block;
+  width: 0.5em;
+  height: 0.5em;
+  background: #1a4f7a;
+  margin-right: 0.5em;
+  vertical-align: 0.08em;
 }
 
 .readings ul {
