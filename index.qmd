@@ -1,5 +1,9 @@
 ---
 title: "About"
+# X は説明文を表示せず、カードにはタイトルしか出ない。
+# そのため、この1行だけで何者か分かる文言にしている（ブラウザのタブ名も兼ねる）。
+pagetitle: "Tate Kihara: Sociologist and Social Demographer, Keio University SFC"
+title-prefix: ""
 description: "Sociologist and social demographer at Keio University SFC. My research examines international migration to and from Japan, in both historical and contemporary contexts, and its relationship to social inequality."
 image: /assets/og-card.jpg
 include-after-body: assets/lang-tabs.html
