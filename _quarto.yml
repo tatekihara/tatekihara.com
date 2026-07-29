@@ -11,11 +11,19 @@ project:
     - "teaching/index.html"
     - "japanese/**"
     - "sfc/**"
+    - "assets/og-card.jpg"
 
 website:
   title: "Tate Kihara"
   site-url: "https://tatekihara.com"
   favicon: assets/favicon.png
+  # SNS にリンクを貼ったときのカード表示（OpenGraph / Twitter Card）。
+  # 画像と説明文は各ページの front matter で指定する。ここで image を指定しても、
+  # Quarto は本文中の最初の画像（About なら顔写真）を優先してしまうため。
+  image: assets/og-card.jpg
+  open-graph: true
+  twitter-card:
+    card-style: summary_large_image
   navbar:
     left:
       - href: index.qmd

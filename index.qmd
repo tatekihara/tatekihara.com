@@ -1,5 +1,7 @@
 ---
 title: "About"
+description: "Sociologist and social demographer at Keio University SFC. My research examines international migration to and from Japan, in both historical and contemporary contexts, and its relationship to social inequality."
+image: /assets/og-card.jpg
 include-after-body: assets/lang-tabs.html
 ---
 

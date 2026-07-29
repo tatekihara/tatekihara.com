@@ -1,5 +1,7 @@
 ---
 title: "CV & Contact"
+description: "Curriculum vitae, contact details, and research profiles for Tate Kihara, Assistant Professor at Keio University SFC."
+image: /assets/og-card.jpg
 ---
 
 **Email**: tkihara@keio.jp

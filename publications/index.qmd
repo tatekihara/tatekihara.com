@@ -1,5 +1,7 @@
 ---
 title: "Publications"
+description: "Peer-reviewed articles and book chapters by Tate Kihara on international migration, social demography, and social stratification."
+image: /assets/og-card.jpg
 ---
 
 ::: {.page-intro}

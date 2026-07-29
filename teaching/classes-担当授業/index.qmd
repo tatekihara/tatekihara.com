@@ -1,5 +1,7 @@
 ---
 title: "Teaching"
+description: "Sociology and demography courses taught by Tate Kihara at Keio University Shonan Fujisawa Campus, at both the undergraduate and graduate levels."
+image: /assets/og-card.jpg
 include-after-body: ../../assets/lang-tabs.html
 ---
 

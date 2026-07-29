@@ -1,5 +1,7 @@
 ---
 title: "SFC生向け情報 ／ For Keio SFC Students"
+description: "木原盾研究会（社会学・人口学）と卒業プロジェクトの案内。輪読文献の一例、履修申込の締切、メンター依頼の条件をまとめています。"
+image: /assets/og-card.jpg
 include-after-body: ../../assets/lang-tabs.html
 ---
 
