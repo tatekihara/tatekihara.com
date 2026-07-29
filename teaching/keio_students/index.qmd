@@ -19,16 +19,11 @@ include-after-body: ../../assets/lang-tabs.html
 #### これまでに読んだ文献の一例 {#past-readings-ja}
 
 ::: {.readings-group}
-社会学・人口学の基礎
+社会学・人口学の基礎と方法
 :::
 
 - 富永健一，1995，『[社会学講義――人と社会の学](https://www.chuko.co.jp/shinsho/1995/04/101242.html)』中央公論社．
 - 河野稠果，2007，『[人口学への招待――少子・高齢化はどこまで解明されたか](https://www.chuko.co.jp/shinsho/2007/08/101910.html)』中央公論新社．
-
-::: {.readings-group}
-研究の方法とデータ
-:::
-
 - 松木洋人・中西泰子・本多真隆，2023，『[基礎からわかる社会学研究法――具体例で学ぶ研究の進めかた](https://www.minervashobo.co.jp/book/b621926.html)』ミネルヴァ書房．
 - エレーナ・ローデ・今井耕介・原田勝孝，2025，『[新・社会科学のためのデータ分析入門 導入編](https://www.iwanami.co.jp/book/b656062.html)』岩波書店．
 - 筒井淳也，2023，『[数字のセンスを磨く――データの読み方・活かし方](https://books.kobunsha.com/book/b10125145.html)』光文社．
@@ -72,16 +67,11 @@ You may choose any topic as long as you frame your research questions within soc
 #### A sample of past readings {#past-readings-en}
 
 ::: {.readings-group}
-Foundations in sociology and demography
+Foundations and methods in sociology and demography
 :::
 
 - 富永健一，1995，『[社会学講義――人と社会の学](https://www.chuko.co.jp/shinsho/1995/04/101242.html)』中央公論社．
 - 河野稠果，2007，『[人口学への招待――少子・高齢化はどこまで解明されたか](https://www.chuko.co.jp/shinsho/2007/08/101910.html)』中央公論新社．
-
-::: {.readings-group}
-Research methods and data
-:::
-
 - 松木洋人・中西泰子・本多真隆，2023，『[基礎からわかる社会学研究法――具体例で学ぶ研究の進めかた](https://www.minervashobo.co.jp/book/b621926.html)』ミネルヴァ書房．
 - エレーナ・ローデ・今井耕介・原田勝孝，2025，『[新・社会科学のためのデータ分析入門 導入編](https://www.iwanami.co.jp/book/b656062.html)』岩波書店．
 - 筒井淳也，2023，『[数字のセンスを磨く――データの読み方・活かし方](https://books.kobunsha.com/book/b10125145.html)』光文社．
