@@ -345,7 +345,7 @@ p:has(> .campus-photo) {
    上を広く、下を狭く取ることで、直前のリストから切り離して
    直後のリストとまとまって見えるようにする。 */
 .readings-group {
-  margin: 1.5rem 0 0.35rem;
+  margin: 1.75rem 0 0.6rem;
   font-size: 0.95rem;
   font-weight: 600;
   color: #333;
@@ -374,11 +374,19 @@ p:has(> .campus-photo) {
   margin: 0;
 }
 
+/* 1件ずつのぶら下げインデント。
+   項目間の余白は、項目内の行送りよりはっきり広く取る。
+   ここが近いと、折り返した2行目が別の文献に見えてしまう。 */
 .readings li {
-  padding: 0.28rem 0 0.28rem 1.1rem;
-  text-indent: -1.1rem;
+  padding-left: 1.5rem;
+  text-indent: -1.5rem;
+  margin-bottom: 0.7rem;
   font-size: 0.94rem;
-  line-height: 1.7;
+  line-height: 1.6;
+}
+
+.readings li:last-child {
+  margin-bottom: 0;
 }
 
 .readings a {
