@@ -1,0 +1,40 @@
+---
+title: "Resources"
+description: "Materials and tools for research and teaching, including an unofficial Zotero citation style (CSL) for the 『社会学評論スタイルガイド』第3版 (Japanese Sociological Review Style Guide, 3rd ed., by the Japan Sociological Society)."
+image: /assets/og-card.jpg
+include-after-body: ../assets/lang-tabs.html
+---
+
+::: {.panel-tabset .lang-tabset}
+
+## 日本語
+
+研究や教育のために作成した資料・ツールを，このページで公開しています．
+
+### 引用スタイル {#citation-styles-ja}
+
+#### 社会学評論スタイル（Zotero 用・非公式） {#jss-csl-ja}
+
+『社会学評論スタイルガイド』第3版にできるかぎり準拠した，文献管理ソフト Zotero 用の引用スタイル（CSL ファイル）です．文献の「言語」欄の値に応じて，和文と欧文の書式を切り替えて出力します．木原がSFCでの教育目的で独自作成したものであり，日本社会学会が公式に提供・承認したものではありません．
+
+- [入門ガイド](https://tatekihara.github.io/jss-csl-zotero/)：Zotero に何を入力するとどう出力されるのかを，文献タイプごとに実例で説明しています．はじめての方はこちらから．
+- [配布ページ（GitHub）](https://github.com/tatekihara/jss-csl-zotero)：.csl ファイルと，仕様・既知の制約をまとめた README があります．
+
+本スタイルはβ版で，CC BY-SA 3.0 ライセンスのもとで公開しています．出力された引用・文献リストが規定に適合しているかは，利用者自身で最終確認してください．
+
+## English
+
+Materials and tools I have created for research and teaching.
+
+### Citation styles {#citation-styles-en}
+
+#### JSS style for Zotero (unofficial) {#jss-csl-en}
+
+An unofficial citation style (CSL) for standard Zotero that follows, as far as possible, the style guide of the Japan Sociological Society (3rd ed.). It switches between Japanese and Western formatting based on each item's Language field. I created it for teaching purposes at Keio SFC; it is not provided or endorsed by the JSS.
+
+- [Beginner's guide (in Japanese)](https://tatekihara.github.io/jss-csl-zotero/): input-and-output examples by item type.
+- [Distribution page (GitHub)](https://github.com/tatekihara/jss-csl-zotero): the .csl file and a README covering specifications and known limitations.
+
+The style is in beta and released under a CC BY-SA 3.0 license. Please check the final output against the style guide yourself.
+
+:::
