@@ -442,3 +442,10 @@ p:has(> .campus-photo) {
 .map-caption p {
   margin: 0;
 }
+
+/* front matter の description は SNS カード（OGP）・検索結果用。
+   Quarto はページ本文のタイトル直下にも描画するが、本文冒頭のリード文と
+   重複するため表示しない（メタタグには影響しない。2026-07-29） */
+#title-block-header .description {
+  display: none;
+}
