@@ -233,7 +233,7 @@ main h2:first-of-type {
   width: 100%;
   height: 200px;
   object-fit: cover;
-  border-radius: 6px;
+  border-radius: 3px;
 }
 
 /* 写真とタブの間隔 */
@@ -288,11 +288,11 @@ p:has(> .campus-photo) {
   margin-bottom: 0;
 }
 
-/* 締切など、注意して読ませたい告知 */
+/* 締切など、注意して読ませたい告知。
+   地色は敷かず、左の罫線だけで本文から立てる。 */
 .notice {
-  margin: 1.3rem 0;
-  padding: 0.9rem 1.1rem;
-  background: #f7f9fb;
+  margin: 1.7rem 0;
+  padding: 0.15rem 0 0.15rem 1.1rem;
   border-left: 3px solid #1a4f7a;
   font-size: 0.96rem;
 }
@@ -322,21 +322,21 @@ p:has(> .campus-photo) {
 }
 
 /* ---- 輪読文献の一覧 ----
-   本文（研究会の説明・締切・卒プロ）と役割が違う参考情報なので、
-   見出し・グループ・補足ごと1つの囲みに入れて別枠に見せる。
-   リンクだらけのブロックのため、囲みの中だけ下線を消して
+   本文（研究会の説明・締切・卒プロ）と役割が違う参考情報。
+   印刷物の傍註にならい、細い罫線で上下を区切るだけにする。
+   地色・角丸・囲み枠は使わない（画面上の「カード」に見せない）。
+   リンクだらけのブロックのため、この中だけ下線を消して
    色で判別させる（ホバーで下線を出す）。 */
 .readings {
-  margin: 1.6rem 0 2rem;
-  padding: 1.4rem 1.7rem 1.2rem;
-  background: #f7f9fb;
-  border: 1px solid #e4e9f0;
-  border-radius: 6px;
+  margin: 2.3rem 0 2.5rem;
+  padding: 1.15rem 0 1rem;
+  border-top: 1px solid #d9d9d9;
+  border-bottom: 1px solid #d9d9d9;
 }
 
 .lang-tabset .readings h4 {
   margin-top: 0;
-  margin-bottom: 0.2rem;
+  margin-bottom: 0.3rem;
   font-size: 1rem;
   color: #333;
 }
@@ -391,7 +391,7 @@ p:has(> .campus-photo) {
 
 /* 締めの補足は一回り小さく */
 .readings .readings-note {
-  margin-top: 1.1rem;
+  margin-top: 1rem;
   font-size: 0.92rem;
   color: #666;
 }
