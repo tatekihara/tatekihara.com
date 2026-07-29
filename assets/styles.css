@@ -45,10 +45,16 @@ main p {
   margin-top: 0;
 }
 
+/* 受賞歴などの補足。書誌情報より一段下げて添える */
 .pub-text ul {
-  margin-top: 0.6em;
-  font-size: 0.94em;
-  color: #555;
+  margin-top: 0.55em;
+  font-size: 0.87em;
+  line-height: 1.65;
+  color: #666;
+}
+
+.pub-text li {
+  margin-bottom: 0.2em;
 }
 
 /* 画面が狭いときは縦積みにする */
