@@ -50,3 +50,8 @@ format:
     toc: false
     anchor-sections: false
     link-external-newwindow: true
+    # Google Search Console の所有権確認（URL プレフィックス プロパティ
+    # https://tatekihara.com/ 用、2026-07-31 登録）。消すと確認が外れる。
+    include-in-header:
+      - text: |
+          <meta name="google-site-verification" content="U9AvdBDqkcp5taY0bOzk6FZNUZwffZRuPdKgS1I-uy0" />
