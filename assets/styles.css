@@ -154,6 +154,12 @@ figcaption {
   margin-top: 1rem;
 }
 
+/* 氏名は role="heading" の div（経緯は index.qmd のコメント）。
+   従来の <p> と同じ下余白を保つ。字面の指定は .name-ja / .name-en 側。 */
+.name-block [role="heading"] {
+  margin-bottom: 1rem;
+}
+
 .name-ja,
 .name-en {
   font-size: 1.1rem;

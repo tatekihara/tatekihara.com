@@ -1,11 +1,21 @@
 ---
-title: "About"
-# X は説明文を表示せず、カードにはタイトルしか出ない。
-# そのため、この1行だけで何者か分かる文言にしている（ブラウザのタブ名も兼ねる）。
-pagetitle: "Tate Kihara: Sociologist and Social Demographer, Keio University SFC"
+# title: は置かない。置くとページ冒頭に見出しが出て、Google が検索結果のタイトルに
+# その語（旧「About」）を採用しうるため。ナビの "About" は _quarto.yml 側の設定。
+# <title>（ブラウザのタブ・検索結果）は名前だけにする。
+#
+# 写真の下の氏名は h1 要素ではなく role="heading" aria-level="1" にしてある。
+# Quarto 1.10.18 は本文中の最初の h1 をページ冒頭のタイトルブロックへ無条件で移すため
+# （title: "" でも回避不可。2026-07-31 実測）、写真の下という配置を保てないため。
+pagetitle: "Tate Kihara"
 title-prefix: ""
 description: "Sociologist and social demographer at Keio University SFC. My research examines international migration to and from Japan, in both historical and contemporary contexts, and its relationship to social inequality."
 image: /assets/og-card.jpg
+# X は説明文を表示せず、カードにはタイトルしか出ない。そのため SNS カードのタイトルは
+# <title> から切り離し、この1行だけで何者か分かる文言を保つ。
+open-graph:
+  title: "Tate Kihara: Sociologist and Social Demographer, Keio University SFC"
+twitter-card:
+  title: "Tate Kihara: Sociologist and Social Demographer, Keio University SFC"
 include-after-body: assets/lang-tabs.html
 ---
 
@@ -14,7 +24,7 @@ include-after-body: assets/lang-tabs.html
 ![](/wp-content/uploads/2021/12/cropped-tate_pic_2021_2_original-4-scaled-1.jpg){.rounded-circle width="100%"}
 
 ::: {.name-block}
-[木原　盾]{.name-ja}<br>[KIHARA, Tate]{.name-en}
+<div role="heading" aria-level="1"><span class="name-ja">木原　盾</span><br><span class="name-en">KIHARA, Tate</span></div>
 :::
 
 Download [CV](/files/Kihara_CV.pdf)
