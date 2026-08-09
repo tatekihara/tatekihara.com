@@ -13,9 +13,7 @@ include-after-body: ../../assets/lang-tabs.html
 
 ### 卒業プロジェクト {#sotsupro}
 
-私を卒業プロジェクトのメンターにしたい方は，私の卒業プロジェクトを履修できることを学事に確認してからご連絡ください．
-
-原則として，卒業プロジェクトの履修規定を満たしていることに加え，卒業プロジェクト1の履修前の学期までに私の研究会に参加をした上で，卒業プロジェクトの方向性に関して私の了解を得ていることを条件とします．私の講義科目（社会構造分析，社会動態論，ポピュレーションダイナミクス，方法論探究）のうち，最低1科目を4年生開始前までに履修しておくことを強くお勧めします．
+私を卒業プロジェクトのメンターにしたい方は，卒業プロジェクトの履修規定を満たしていることに加え，卒業プロジェクト1の履修前の学期までに私の研究会に参加をした上で，卒業プロジェクトの方向性に関して私の了解を得ていることを条件とします．私の講義科目（社会構造分析，社会動態論，ポピュレーションダイナミクス，方法論探究）のうち，最低1科目を4年生開始前までに履修しておくことを強くお勧めします．
 
 また，4年生になるまでに，私の授業に限らず，方法論探究・質的調査法・社会科学の計量分析・データサイエンス系列の授業など，社会科学分野の研究方法論に関するSFCや三田での講義を履修して，研究方法論に関する学びを始めていることが前提となります．
 
@@ -60,9 +58,7 @@ include-after-body: ../../assets/lang-tabs.html
 
 ### Graduation Project {#graduation-project}
 
-If you would like me to be your mentor for your graduation project, please contact me after confirming through Shonan Fujisawa Campus Registrar that you are able to register for my graduation project course.
-
-As a general rule, besides meeting the requirements set by the SFC Registrar, you should have started participating in my research seminar (Kenkyūkai) by the semester before registering for your Graduation Project 1 (Sotsugyō purojekuto 1). Taking at least one of my courses (Macroscopic Social Analysis, Social Dynamics, Population Dynamics and Methodology Study) before starting your senior year is highly recommended.
+If you would like me to be your mentor for your graduation project, besides meeting the requirements set by the SFC Registrar, you should have started participating in my research seminar (Kenkyūkai) by the semester before registering for your Graduation Project 1 (Sotsugyō purojekuto 1) and have obtained my approval of the direction of your project. Taking at least one of my courses (Macroscopic Social Analysis, Social Dynamics, Population Dynamics and Methodology Study) before starting your senior year is highly recommended.
 
 ### Research Seminars {#research-seminars}
 
