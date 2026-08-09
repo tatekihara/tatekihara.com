@@ -37,7 +37,7 @@ include-after-body: ../../assets/lang-tabs.html
 - Livi-Bacci, Massimo, 2012, *[A Concise History of World Population](https://www.wiley.com/en-us/A+Concise+History+of+World+Population,+5th+Edition-p-9781118273944)*, 5th ed., Wiley-Blackwell.（速水融・斎藤修訳，2014，『[人口の世界史](https://www.kinokuniya.co.jp/f/dsg-01-9784492371169)』東洋経済新報社．）
 - Llaudet, Elena and Kosuke Imai, 2022, *[Data Analysis for Social Science: A Friendly and Practical Introduction](https://press.princeton.edu/books/hardcover/9780691199429/data-analysis-for-social-science)*, Princeton University Press.（原田勝孝訳，2025，『[新・社会科学のためのデータ分析入門 導入編](https://www.iwanami.co.jp/book/b656062.html)』岩波書店．）
 - Lutz, Wolfgang, 2021, *[Advanced Introduction to Demography](https://www.e-elgar.com/shop/gbp/advanced-introduction-to-demography-9781789901481.html)*, Edward Elgar Publishing.
-- 松木洋人・中西泰子・本多真隆，2023，『[基礎からわかる社会学研究法――具体例で学ぶ研究の進めかた](https://www.minervashobo.co.jp/book/b621926.html)』ミネルヴァ書房．
+- 松木洋人・中西泰子・本多真隆編，2023，『[基礎からわかる社会学研究法――具体例で学ぶ研究の進めかた](https://www.minervashobo.co.jp/book/b621926.html)』ミネルヴァ書房．
 - 水野直樹・文京洙，2015，『[在日朝鮮人――歴史と現在](https://www.iwanami.co.jp/book/b226315.html)』岩波書店．
 - 永吉希久子，2020，『[移民と日本社会――データで読み解く実態と将来像](https://www.chuko.co.jp/shinsho/2020/02/102580.html)』中央公論新社．
 - 中井遼，2021，『[欧州の排外主義とナショナリズム――調査から見る世論の本質](https://www.kinokuniya.co.jp/f/dsg-01-9784787721020)』新泉社．
@@ -80,7 +80,7 @@ You may choose any topic as long as you frame your research questions within soc
 - Livi-Bacci, Massimo, 2012, *[A Concise History of World Population](https://www.wiley.com/en-us/A+Concise+History+of+World+Population,+5th+Edition-p-9781118273944)*, 5th ed., Wiley-Blackwell.（速水融・斎藤修訳，2014，『[人口の世界史](https://www.kinokuniya.co.jp/f/dsg-01-9784492371169)』東洋経済新報社．）
 - Llaudet, Elena and Kosuke Imai, 2022, *[Data Analysis for Social Science: A Friendly and Practical Introduction](https://press.princeton.edu/books/hardcover/9780691199429/data-analysis-for-social-science)*, Princeton University Press.（原田勝孝訳，2025，『[新・社会科学のためのデータ分析入門 導入編](https://www.iwanami.co.jp/book/b656062.html)』岩波書店．）
 - Lutz, Wolfgang, 2021, *[Advanced Introduction to Demography](https://www.e-elgar.com/shop/gbp/advanced-introduction-to-demography-9781789901481.html)*, Edward Elgar Publishing.
-- 松木洋人・中西泰子・本多真隆，2023，『[基礎からわかる社会学研究法――具体例で学ぶ研究の進めかた](https://www.minervashobo.co.jp/book/b621926.html)』ミネルヴァ書房．
+- 松木洋人・中西泰子・本多真隆編，2023，『[基礎からわかる社会学研究法――具体例で学ぶ研究の進めかた](https://www.minervashobo.co.jp/book/b621926.html)』ミネルヴァ書房．
 - 水野直樹・文京洙，2015，『[在日朝鮮人――歴史と現在](https://www.iwanami.co.jp/book/b226315.html)』岩波書店．
 - 永吉希久子，2020，『[移民と日本社会――データで読み解く実態と将来像](https://www.chuko.co.jp/shinsho/2020/02/102580.html)』中央公論新社．
 - 中井遼，2021，『[欧州の排外主義とナショナリズム――調査から見る世論の本質](https://www.kinokuniya.co.jp/f/dsg-01-9784787721020)』新泉社．
