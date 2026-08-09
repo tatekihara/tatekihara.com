@@ -23,6 +23,10 @@ include-after-body: ../../assets/lang-tabs.html
 
 テーマは自由ですが，社会学や人口学の枠組みで問いを設定することを求めます．方法論は定性的手法，定量的手法，その組み合わせ等，問いにあったものであれば，自由です．アカデミックな論文が読める/書けるようになることを目標としています．
 
+::: {.notice}
+\*2026年度秋学期の研究会履修申込締切は**2026年8月18日（火）23:59（日本時間）**です．[B1](https://gslbs.keio.jp/syllabus/detail?ttblyr=2026&entno=08038&lang=jp)と[B2](https://gslbs.keio.jp/syllabus/detail?ttblyr=2026&entno=08042&lang=jp)それぞれのシラバスで具体的な内容を確認して，K-LMS上で申込ください．1−2年生からの積極的な応募を期待します．定員に満たない場合，締切後の受付もする可能性があります．お問い合わせください．
+:::
+
 :::: {.readings}
 #### これまでに読んだ／今後読む文献の一例 {#readings-ja}
 
@@ -50,10 +54,6 @@ include-after-body: ../../assets/lang-tabs.html
 :::
 ::::
 
-::: {.notice}
-\*2026年度秋学期の研究会履修申込締切は**2026年8月18日（火）23:59（日本時間）**です．[B1](https://gslbs.keio.jp/syllabus/detail?ttblyr=2026&entno=08038&lang=jp)と[B2](https://gslbs.keio.jp/syllabus/detail?ttblyr=2026&entno=08042&lang=jp)それぞれのシラバスで具体的な内容を確認して，K-LMS上で申込ください．1−2年生からの積極的な応募を期待します．定員に満たない場合，締切後の受付もする可能性があります．お問い合わせください．
-:::
-
 ## English
 
 ### Graduation Project {#graduation-project}
@@ -65,6 +65,10 @@ If you would like me to be your mentor for your graduation project, besides meet
 In Research Seminar B1, we read and discuss assigned literature on sociological and demographic theory and methods, as well as on international migration. Research Seminar B2 is where participants report on their own individual research.
 
 You may choose any topic as long as you frame your research questions within sociology and/or demography. Methodologically, participants are free to use qualitative methods, quantitative methods, or a combination of both, as long as they suit your topic and research question. The goal is for you to eventually write your own academic papers.
+
+::: {.notice}
+\*Application for AY2026-fall research seminar is due on **Tuesday, August 18, 2026, 23:59 (JST)**. Please check the specific details in the syllabi for [B1](https://gslbs.keio.jp/syllabus/detail?ttblyr=2026&entno=08038&lang=jp) and [B2](https://gslbs.keio.jp/syllabus/detail?ttblyr=2026&entno=08042&lang=jp), and apply via K-LMS. Applications from freshmen and sophomore students are welcomed.
+:::
 
 :::: {.readings}
 #### A sample of past and upcoming readings {#readings-en}
@@ -92,9 +96,5 @@ You may choose any topic as long as you frame your research questions within soc
 We have also read journal articles from *[American Sociological Review](https://journals.sagepub.com/home/asr)*, *[Social Forces](https://academic.oup.com/sf)*, *[Demography](https://read.dukeupress.edu/demography)*, 『[社会学評論](https://www.jstage.jst.go.jp/browse/jsr/-char/ja)』, 『[教育社会学研究](https://www.jstage.jst.go.jp/browse/eds/-char/ja)』, and 『[理論と方法](https://www.jstage.jst.go.jp/browse/ojjams/-char/ja)』, among others.
 :::
 ::::
-
-::: {.notice}
-\*Application for AY2026-fall research seminar is due on **Tuesday, August 18, 2026, 23:59 (JST)**. Please check the specific details in the syllabi for [B1](https://gslbs.keio.jp/syllabus/detail?ttblyr=2026&entno=08038&lang=jp) and [B2](https://gslbs.keio.jp/syllabus/detail?ttblyr=2026&entno=08042&lang=jp), and apply via K-LMS. Applications from freshmen and sophomore students are welcomed.
-:::
 
 :::
