@@ -31,6 +31,7 @@ include-after-body: ../../assets/lang-tabs.html
 - 是川夕，2025，『[ニッポンの移民――増え続ける外国人とどう向き合うか](https://www.chikumashobo.co.jp/product/9784480077103/)』筑摩書房．
 - Liu-Farrer, Gracia, 2020, *[Immigrant Japan: Mobility and Belonging in an Ethno-nationalist Society](https://www.kinokuniya.co.jp/f/dsg-02-9781501748622)*, Cornell University Press.
 - Livi-Bacci, Massimo, 2012, *[A Concise History of World Population](https://www.wiley.com/en-us/A+Concise+History+of+World+Population,+5th+Edition-p-9781118273944)*, 5th ed., Wiley-Blackwell.（速水融・斎藤修訳，2014，『[人口の世界史](https://www.kinokuniya.co.jp/f/dsg-01-9784492371169)』東洋経済新報社．）
+- Llaudet, Elena and Kosuke Imai, 2022, *[Data Analysis for Social Science: A Friendly and Practical Introduction](https://press.princeton.edu/books/hardcover/9780691199429/data-analysis-for-social-science)*, Princeton University Press.（原田勝孝訳，2025，『[新・社会科学のためのデータ分析入門 導入編](https://www.iwanami.co.jp/book/b656062.html)』岩波書店．）
 - Lutz, Wolfgang, 2021, *[Advanced Introduction to Demography](https://www.e-elgar.com/shop/gbp/advanced-introduction-to-demography-9781789901481.html)*, Edward Elgar Publishing.
 - 松木洋人・中西泰子・本多真隆，2023，『[基礎からわかる社会学研究法――具体例で学ぶ研究の進めかた](https://www.minervashobo.co.jp/book/b621926.html)』ミネルヴァ書房．
 - 水野直樹・文京洙，2015，『[在日朝鮮人――歴史と現在](https://www.iwanami.co.jp/book/b226315.html)』岩波書店．
@@ -40,7 +41,6 @@ include-after-body: ../../assets/lang-tabs.html
 - 小熊英二，2022，『[基礎からわかる論文の書き方](https://www.kodansha.co.jp/book/products/0000361477)』講談社．
 - 大石奈々，2024，『[流出する日本人――海外移住の光と影](https://www.chuko.co.jp/shinsho/2024/03/102794.html)』中央公論新社．
 - 朴沙羅，2026，『[日本社会と外国人――入管政策が照らす80年](https://www.chuko.co.jp/shinsho/2026/03/102902.html)』中央公論新社．
-- エレーナ・ローデ・今井耕介・原田勝孝，2025，『[新・社会科学のためのデータ分析入門 導入編](https://www.iwanami.co.jp/book/b656062.html)』岩波書店．
 - 富永健一，1995，『[社会学講義――人と社会の学](https://www.chuko.co.jp/shinsho/1995/04/101242.html)』中央公論社．
 - 筒井淳也，2021，『[社会学――「非サイエンス」的な知の居場所](https://www.iwanami.co.jp/book/b593230.html)』岩波書店．
 - 筒井淳也，2023，『[数字のセンスを磨く――データの読み方・活かし方](https://books.kobunsha.com/book/b10125145.html)』光文社．
@@ -74,6 +74,7 @@ You may choose any topic as long as you frame your research questions within soc
 - 是川夕，2025，『[ニッポンの移民――増え続ける外国人とどう向き合うか](https://www.chikumashobo.co.jp/product/9784480077103/)』筑摩書房．
 - Liu-Farrer, Gracia, 2020, *[Immigrant Japan: Mobility and Belonging in an Ethno-nationalist Society](https://www.kinokuniya.co.jp/f/dsg-02-9781501748622)*, Cornell University Press.
 - Livi-Bacci, Massimo, 2012, *[A Concise History of World Population](https://www.wiley.com/en-us/A+Concise+History+of+World+Population,+5th+Edition-p-9781118273944)*, 5th ed., Wiley-Blackwell.（速水融・斎藤修訳，2014，『[人口の世界史](https://www.kinokuniya.co.jp/f/dsg-01-9784492371169)』東洋経済新報社．）
+- Llaudet, Elena and Kosuke Imai, 2022, *[Data Analysis for Social Science: A Friendly and Practical Introduction](https://press.princeton.edu/books/hardcover/9780691199429/data-analysis-for-social-science)*, Princeton University Press.（原田勝孝訳，2025，『[新・社会科学のためのデータ分析入門 導入編](https://www.iwanami.co.jp/book/b656062.html)』岩波書店．）
 - Lutz, Wolfgang, 2021, *[Advanced Introduction to Demography](https://www.e-elgar.com/shop/gbp/advanced-introduction-to-demography-9781789901481.html)*, Edward Elgar Publishing.
 - 松木洋人・中西泰子・本多真隆，2023，『[基礎からわかる社会学研究法――具体例で学ぶ研究の進めかた](https://www.minervashobo.co.jp/book/b621926.html)』ミネルヴァ書房．
 - 水野直樹・文京洙，2015，『[在日朝鮮人――歴史と現在](https://www.iwanami.co.jp/book/b226315.html)』岩波書店．
@@ -83,7 +84,6 @@ You may choose any topic as long as you frame your research questions within soc
 - 小熊英二，2022，『[基礎からわかる論文の書き方](https://www.kodansha.co.jp/book/products/0000361477)』講談社．
 - 大石奈々，2024，『[流出する日本人――海外移住の光と影](https://www.chuko.co.jp/shinsho/2024/03/102794.html)』中央公論新社．
 - 朴沙羅，2026，『[日本社会と外国人――入管政策が照らす80年](https://www.chuko.co.jp/shinsho/2026/03/102902.html)』中央公論新社．
-- エレーナ・ローデ・今井耕介・原田勝孝，2025，『[新・社会科学のためのデータ分析入門 導入編](https://www.iwanami.co.jp/book/b656062.html)』岩波書店．
 - 富永健一，1995，『[社会学講義――人と社会の学](https://www.chuko.co.jp/shinsho/1995/04/101242.html)』中央公論社．
 - 筒井淳也，2021，『[社会学――「非サイエンス」的な知の居場所](https://www.iwanami.co.jp/book/b593230.html)』岩波書店．
 - 筒井淳也，2023，『[数字のセンスを磨く――データの読み方・活かし方](https://books.kobunsha.com/book/b10125145.html)』光文社．
