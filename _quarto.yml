@@ -51,12 +51,19 @@ format:
     toc: false
     anchor-sections: false
     link-external-newwindow: true
-    # Google Search Console の所有権確認（URL プレフィックス プロパティ
-    # https://tatekihara.com/ 用、2026-07-31 登録）。消すと確認が外れる。
     include-in-header:
+      # Google Search Console の所有権確認（URL プレフィックス プロパティ
+      # https://tatekihara.com/ 用、2026-07-31 登録）。消すと確認が外れる。
       - text: |
           <meta name="google-site-verification" content="U9AvdBDqkcp5taY0bOzk6FZNUZwffZRuPdKgS1I-uy0" />
           <!-- OGP 画像の寸法。全ページ共通カード assets/og-card.jpg（1200x630）の実寸。
                Quarto 1.10.18 は open-graph の image-width/height キーを出力しないため直接注入 -->
           <meta property="og:image:width" content="1200" />
           <meta property="og:image:height" content="630" />
+      # アクセス解析（GoatCounter、2026-08-14 設置）。Cookie を使わず、個人を特定できる
+      # 情報も保存しない仕様のため同意バナーは置いていない。localhost からの表示は
+      # GoatCounter 側で自動的に除外されるので、quarto preview はカウントされない。
+      # ダッシュボード: https://tatekihara.goatcounter.com
+      - text: |
+          <script data-goatcounter="https://tatekihara.goatcounter.com/count"
+                  async src="//gc.zgo.at/count.js"></script>
