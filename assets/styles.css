@@ -101,6 +101,27 @@ figcaption {
   font-size: 0.95em;
 }
 
+/* 写真下の研究者プロファイル（アイコンのみ。名称は alt と title に持たせる）。
+   .profile img の写真用指定（block・幅100%）を打ち消す */
+.profile .profile-links img {
+  display: inline;
+  width: 22px;
+  height: 22px;
+  max-width: none;
+  margin: 0;
+  vertical-align: middle;
+}
+
+.profile-links a {
+  display: inline-block;
+  margin: 0 0.4rem;
+  text-decoration: none;
+}
+
+.profile-links a:hover img {
+  opacity: 0.65;
+}
+
 @media (max-width: 767px) {
   .profile img,
   .profile p {
@@ -170,6 +191,14 @@ figcaption {
 
 .name-ja {
   letter-spacing: 0.05em;
+}
+
+/* 漢字名の読み（ルビ）。氏名より控えめに */
+.name-ja rt {
+  font-size: 0.5em;
+  font-weight: 400;
+  color: #666;
+  letter-spacing: 0.1em;
 }
 
 .name-en {

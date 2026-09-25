@@ -1,0 +1,11 @@
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#1a4f7a">
+<!-- researchmap の公式アイコンは配布されていないため、同サイトのファビコン
+     （右向きの三角に rm の白抜き）をもとに作図した単色版 -->
+<defs>
+<mask id="rm">
+<rect width="24" height="24" fill="#fff"/>
+<path d="M6.3 15V9.2M6.3 11.4C6.3 9.9 7.4 9.2 8.8 9.2M10.1 15V9.2M10.1 11.2C10.1 8.9 12.9 8.9 12.9 11.2V15M12.9 11.2C12.9 8.9 15.7 8.9 15.7 11.2V15" fill="none" stroke="#000" stroke-width="1.9"/>
+</mask>
+</defs>
+<path d="M4.2 1.8L22.6 12L4.2 22.2Z" stroke="#1a4f7a" stroke-width="2" stroke-linejoin="round" mask="url(#rm)"/>
+</svg>
