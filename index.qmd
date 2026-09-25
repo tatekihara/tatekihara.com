@@ -29,7 +29,9 @@ include-after-body: assets/lang-tabs.html
 
 Download [CV](/files/Kihara_CV.pdf)
 
-[Google Scholar](https://scholar.google.com/citations?user=IvuSmWkAAAAJ)<br>[ORCID](https://orcid.org/0000-0003-3326-8444) ・ [researchmap](https://researchmap.jp/tkihara)
+::: {.profile-links}
+[![Google Scholar](/assets/icons/googlescholar.svg)](https://scholar.google.com/citations?user=IvuSmWkAAAAJ "Google Scholar") [![ORCID](/assets/icons/orcid.svg)](https://orcid.org/0000-0003-3326-8444 "ORCID") [![researchmap](/assets/icons/researchmap.svg)](https://researchmap.jp/tkihara "researchmap") [![GitHub](/assets/icons/github.svg)](https://github.com/tatekihara "GitHub")
+:::
 :::
 
 ::: {.g-col-12 .g-col-md-8}

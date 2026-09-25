@@ -101,6 +101,27 @@ figcaption {
   font-size: 0.95em;
 }
 
+/* 写真下の研究者プロファイル（アイコンのみ。名称は alt と title に持たせる）。
+   .profile img の写真用指定（block・幅100%）を打ち消す */
+.profile .profile-links img {
+  display: inline;
+  width: 22px;
+  height: 22px;
+  max-width: none;
+  margin: 0;
+  vertical-align: middle;
+}
+
+.profile-links a {
+  display: inline-block;
+  margin: 0 0.4rem;
+  text-decoration: none;
+}
+
+.profile-links a:hover img {
+  opacity: 0.65;
+}
+
 @media (max-width: 767px) {
   .profile img,
   .profile p {
