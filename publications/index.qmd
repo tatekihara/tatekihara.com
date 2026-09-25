@@ -28,7 +28,7 @@ Cover images link to the online version of each work. Feel free to e-mail if you
 
 - Winner, Population Association of Japan Best Paper Award (Yūshū ronbun-shō), 2026
 - Winner, Japan Sociological Society Encouragement Award (Shōrei-shō, Early-Career Research Award), 2025. \[[日本社会学会奨励賞選評（日本社会学会ニュース No.246, p.22）](https://jss-sociology.org/wp/wp-content/uploads/2026/02/jss_news246.pdf#page=22)\]
-- Honorable Mention, American Sociological Association Asia and Asian American Section Research Paper Award, 2025
+- Honorable Mention, American Sociological Association Section on Asia and Asian America Best Research Paper Award, 2025
 :::
 :::
 
@@ -59,7 +59,7 @@ Nagayoshi Kikuko and **Tate Kihara**. 2023. "Economic achievement of immigrants 
 ::: {.pub-text}
 **Kihara, Tate.** 2022. "The Life Course Origins of the Immigrant Advantage? Parental Nativity, Parental Education, and Academic Achievement Gaps From Kindergarten to High School in the United States." ***International Migration Review*** 56 (2): 463–98. doi: [10.1177/01979183211041543](https://doi.org/10.1177/01979183211041543).
 
-- Winner, Alden Speare, Jr. Award, Department of Sociology, Brown University, May 2019 \[as a MA thesis\]
+- Winner, Alden Speare, Jr. Award, Department of Sociology, Brown University, May 2019 \[as an MA thesis\]
 :::
 :::
 
@@ -72,11 +72,7 @@ Jackson, Margot I., and **Tate Kihara**. 2019. "The Educational Gradient in Heal
 :::
 :::
 
-## Non Peer-Reviewed Writings
-
-::: {.section-note}
-Book chapters and other miscellaneous publications
-:::
+## Book Chapters and Other Writings
 
 ::: {.pub}
 ::: {.pub-cover}
@@ -102,7 +98,7 @@ Published in Japanese: 木原盾, 2021,「誰が永住を予定しているの�
 
 ::: {.pub}
 ::: {.pub-cover}
-![](/assets/covers/utp_global.jpg)
+[![](/assets/covers/utp_global.jpg)](https://www.utp.or.jp/book/b10032836.html)
 :::
 ::: {.pub-text}
 **Kihara, Tate.** 2021. "The Current Status of Quantitative Research on Children of Immigrants: Comparing Japan and the United States." Pp. 22–23 in ***The Japanese Educational Challenge in a New Global Era: Multicultural Society from a Comparative Education Worldview***, edited by R. Tsuneyoshi and M. Nukaga. Tokyo: The University of Tokyo Press.
@@ -113,7 +109,7 @@ Published in Japanese: 木原盾, 2021,「移民の子どもの定量的研究�
 
 ::: {.pub}
 ::: {.pub-cover}
-![](/assets/covers/routledge_globalization.jpg)
+[![](/assets/covers/routledge_globalization.jpg)](https://doi.org/10.4324/9781315690278)
 :::
 ::: {.pub-text}
 Tsuneyoshi, Ryoko, Fumiko Takahashi, Hideki Ito, Seulbi Lee, Maiko Sumino, **Tate Kihara**, Satsuki Kubodera, and Hikaru Ishiwata. 2017. "Japanese Schooling and the Global and Multicultural Challenge: Globalization from Below." Pp. 190–213 in ***Globalization and Japanese "Exceptionalism" in Education: Insider's Views into a Changing System***, edited by R. Tsuneyoshi. Abingdon, United Kingdom: Routledge.

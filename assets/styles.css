@@ -193,6 +193,14 @@ figcaption {
   letter-spacing: 0.05em;
 }
 
+/* 漢字名の読み（ルビ）。氏名より控えめに */
+.name-ja rt {
+  font-size: 0.5em;
+  font-weight: 400;
+  color: #666;
+  letter-spacing: 0.1em;
+}
+
 .name-en {
   letter-spacing: 0.01em;
 }
