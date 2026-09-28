@@ -156,11 +156,10 @@ figcaption {
   padding-top: 0;
 }
 
-/* 日本語略歴の項目リスト */
+/* 日本語タブ末尾の業績・連絡先の項目リスト。区切りは上の h3（業績・連絡先）が担うので
+   罫線と上余白は付けない（2026-09-28） */
 .bio-fields {
-  margin-top: 1.4rem;
-  padding-top: 1.2rem;
-  border-top: 1px solid #eee;
+  margin-top: 0;
 }
 
 .bio-fields p {
