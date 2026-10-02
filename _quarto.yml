@@ -24,7 +24,7 @@ website:
   open-graph:
     image-alt: "Keio University Shonan Fujisawa Campus"
   twitter-card:
-    card-style: summary_large_image
+    card-style: summary
   navbar:
     left:
       - href: index.qmd
