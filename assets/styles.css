@@ -273,6 +273,7 @@ main h2:first-of-type {
   width: 100%;
   height: 200px;
   object-fit: cover;
+  object-position: center 30%;  /* 建物の上部と空が入るように上へ寄せる */
   border-radius: 3px;
 }
 
