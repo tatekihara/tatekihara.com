@@ -34,7 +34,7 @@ website:
       - href: "teaching/classes-担当授業/index.qmd"
         text: Teaching
       - href: teaching/keio_students/index.qmd
-        text: "SFC生向け / For SFC Students"
+        text: "Students"
       - href: resources/index.qmd
         text: Resources
       - href: cv/index.qmd

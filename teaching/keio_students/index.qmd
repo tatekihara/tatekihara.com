@@ -1,6 +1,6 @@
 ---
-title: "SFC生向け情報 ／ For Keio SFC Students"
-description: "木原盾研究会（社会学・人口学）と卒業プロジェクトの案内。輪読文献の一例、履修申込の締切、メンター依頼の条件をまとめています。"
+title: "SFC生・大学院志望者向け情報 ／ For SFC Students and Prospective Graduate Students"
+description: "木原盾研究会（社会学・人口学）、卒業プロジェクト、大学院出願前の連絡についての案内。輪読文献の一例、履修申込の締切、メンター依頼の条件をまとめています。"
 image: /assets/og-card.jpg
 include-after-body: ../../assets/lang-tabs.html
 ---
@@ -10,6 +10,12 @@ include-after-body: ../../assets/lang-tabs.html
 ::: {.panel-tabset .lang-tabset}
 
 ## 日本語
+
+### 大学院への出願を考えている方 {#daigakuin}
+
+大学院政策・メディア研究科への出願を考えていて，私の研究指導を希望する方は，出願する回の締切の少なくとも3週間前（できれば1か月前）までに，[教員コンタクトフォーム](https://docs.google.com/forms/d/e/1FAIpQLSftr9HxSRrAEndNO5747R0cqPYcKoVVSH_9sBMdqtRpF3j0OA/viewform)から連絡してください．メールでの連絡が迷惑メールに振り分けられる事例が多く発生しているので，メールではなく，必ずこのフォームを使ってください．
+
+出願の前に指導教員の内諾を得る必要がありますが，入試の手続き上，私は内諾するかどうかを決める前に面談を行い，研究計画書を検討する必要があります．そのための時間を確保するため，早めの連絡をお願いします．
 
 ### 卒業プロジェクト {#sotsupro}
 
@@ -58,6 +64,12 @@ include-after-body: ../../assets/lang-tabs.html
 ::::
 
 ## English
+
+### Prospective Graduate Students {#prospective-graduate}
+
+If you plan to apply to the Graduate School of Media and Governance and would like me to supervise your research, please contact me through the [Faculty Contact Form](https://docs.google.com/forms/d/e/1FAIpQLSftr9HxSRrAEndNO5747R0cqPYcKoVVSH_9sBMdqtRpF3j0OA/viewform) at least three weeks (preferably a month) before the application deadline for the round in which you intend to apply. Please use the form rather than email, as many inquiries sent by email have been filtered into my spam folder.
+
+Applicants need a prospective supervisor's informal consent before applying, and the admissions procedure requires me to interview you and review your research proposal before deciding whether to give that consent. Please contact me early so that there is enough time for this.
 
 ### Graduation Project {#graduation-project}
 
