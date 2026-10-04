@@ -80,6 +80,18 @@ ul.task-list li input[type="checkbox"] {
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <script data-goatcounter="https://tatekihara.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var here = window.location.pathname.replace(/index\.html$/, '');
+  document.querySelectorAll('.navbar .dropdown-menu .dropdown-item').forEach(function (a) {
+    if (a.pathname.replace(/index\.html$/, '') !== here) return;
+    a.setAttribute('aria-current', 'page');
+    var menu = a.closest('.dropdown');
+    var toggle = menu && menu.querySelector('.dropdown-toggle');
+    if (toggle) toggle.classList.add('active');
+  });
+});
+</script>
 
 
 <link rel="stylesheet" href="../assets/styles.css">
@@ -116,17 +128,28 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../research/index.html"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../publications/index.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../teaching/classes-担当授業/index.html"> 
-<span class="menu-text">Teaching</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-teaching" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Teaching</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-teaching">    
+        <li>
+    <a class="dropdown-item" href="../teaching/courses/index.html">
+ <span class="dropdown-text">Courses</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../teaching/keio_students/index.html"> 
-<span class="menu-text">Students</span></a>
+        <li>
+    <a class="dropdown-item" href="../teaching/keio_students/index.html">
+ <span class="dropdown-text">For Students</span></a>
   </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link active" href="../resources/index.html" aria-current="page"> 
 <span class="menu-text">Resources</span></a>
@@ -219,12 +242,39 @@ ul.task-list li input[type="checkbox"] {
 </main> <!-- /main -->
 <script>
 // 言語タブの共通スクリプト。
-//   /#japanese で開く → 日本語タブを選択した状態で表示する
-//   タブを切り替える → URL の末尾を書き換え、その状態のまま共有・ブックマークできるようにする
+//   ページを開いたとき、最初に出すタブを次の順で決める（2026-10-04）:
+//     1. URL の末尾が #japanese / #english なら、それに従う
+//     2. 読む人が前に自分でタブを選んでいれば、それに従う（ブラウザに覚えさせてある）
+//     3. ブラウザの言語設定で、日本語と英語のうち優先順位が上のほう（どちらもなければ英語）
+//     4. 言語設定が読めなければ、ページの既定のタブのまま
+//   読む人がタブを切り替える → その選択を覚え、URL の末尾を書き換えて、その状態のまま共有・ブックマークできるようにする。
+//   自動で選んだだけのときは URL を書き換えない（共有された相手には、その人の言語で出るように）。
 // 旧 /japanese/ の転送先もこの仕組みに乗せている。
 // タブの並び順はページごとに異なる（About は英語先、SFC生向けは日本語先）ため、
 // 固定インデックスではなくリンクの表示文字列で日本語タブを見つける。
 (function () {
+  var KEY = 'lang-tab';
+
+  function stored() {
+    try { return window.localStorage.getItem(KEY); } catch (e) { return null; }
+  }
+
+  function remember(lang) {
+    try { window.localStorage.setItem(KEY, lang); } catch (e) { /* 覚えられなくても表示には影響しない */ }
+  }
+
+  // ブラウザの言語設定を優先順に見て、最初に出てくる日本語か英語を返す
+  function browserLang() {
+    var list = navigator.languages && navigator.languages.length ? navigator.languages : (navigator.language ? [navigator.language] : []);
+    if (!list.length) return null;
+    for (var i = 0; i < list.length; i++) {
+      var code = String(list[i]).toLowerCase();
+      if (code.indexOf('ja') === 0) return 'ja';
+      if (code.indexOf('en') === 0) return 'en';
+    }
+    return 'en';
+  }
+
   function init() {
     var tabset = document.querySelector('.panel-tabset.lang-tabset');
     if (!tabset) return;
@@ -243,9 +293,12 @@ ul.task-list li input[type="checkbox"] {
     if (!jaLink || !enLink) return;
 
     var byHash = { '#japanese': jaLink, '#english': enLink };
+    var byLang = { ja: jaLink, en: enLink };
+    var pendingAuto = 0;   // スクリプトが起こした切り替えの数（読む人の操作と区別するため、下で 1 つずつ消す）
 
     function show(link) {
       if (!link || link.classList.contains('active')) return;
+      pendingAuto += 1;
       if (window.bootstrap && window.bootstrap.Tab) {
         window.bootstrap.Tab.getOrCreateInstance(link).show();
       } else {
@@ -253,18 +306,21 @@ ul.task-list li input[type="checkbox"] {
       }
     }
 
-    // 読み込み時: URL の指定に従ってタブを開く
-    show(byHash[window.location.hash]);
-
-    // 切り替え時: URL を更新する（画面はスクロールさせない）
+    // 読む人が切り替えたとき（クリックでもキーボードでも）: 選択を覚え、URL を更新する（画面はスクロールさせない）
     Array.prototype.forEach.call(links, function (link) {
       link.addEventListener('shown.bs.tab', function () {
-        var hash = link === jaLink ? '#japanese' : '#english';
+        if (pendingAuto > 0) { pendingAuto -= 1; return; }
+        var lang = link === jaLink ? 'ja' : 'en';
+        var hash = lang === 'ja' ? '#japanese' : '#english';
+        remember(lang);
         if (window.location.hash !== hash) {
           history.replaceState(null, '', window.location.pathname + hash);
         }
       });
     });
+
+    // 読み込み時: URL の指定、前の選択、ブラウザの言語設定の順で決める
+    show(byHash[window.location.hash] || byLang[stored()] || byLang[browserLang()]);
 
     // 別ページから /#japanese で戻ってきた場合にも追随する
     window.addEventListener('hashchange', function () {

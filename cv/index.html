@@ -80,6 +80,18 @@ ul.task-list li input[type="checkbox"] {
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <script data-goatcounter="https://tatekihara.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var here = window.location.pathname.replace(/index\.html$/, '');
+  document.querySelectorAll('.navbar .dropdown-menu .dropdown-item').forEach(function (a) {
+    if (a.pathname.replace(/index\.html$/, '') !== here) return;
+    a.setAttribute('aria-current', 'page');
+    var menu = a.closest('.dropdown');
+    var toggle = menu && menu.querySelector('.dropdown-toggle');
+    if (toggle) toggle.classList.add('active');
+  });
+});
+</script>
 
 
 <link rel="stylesheet" href="../assets/styles.css">
@@ -116,17 +128,28 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../research/index.html"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../publications/index.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../teaching/classes-担当授業/index.html"> 
-<span class="menu-text">Teaching</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-teaching" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Teaching</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-teaching">    
+        <li>
+    <a class="dropdown-item" href="../teaching/courses/index.html">
+ <span class="dropdown-text">Courses</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../teaching/keio_students/index.html"> 
-<span class="menu-text">Students</span></a>
+        <li>
+    <a class="dropdown-item" href="../teaching/keio_students/index.html">
+ <span class="dropdown-text">For Students</span></a>
   </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="../resources/index.html"> 
 <span class="menu-text">Resources</span></a>
@@ -176,6 +199,7 @@ ul.task-list li input[type="checkbox"] {
 
 <p><strong>Email</strong>: tkihara@keio.jp</p>
 <p><strong>Profiles</strong>: <a href="https://scholar.google.com/citations?user=IvuSmWkAAAAJ">Google Scholar</a> ・ <a href="https://orcid.org/0000-0003-3326-8444">ORCID</a> ・ <a href="https://researchmap.jp/tkihara">researchmap</a></p>
+<p><strong>Blog</strong> (in Japanese): <a href="https://tkihara.hatenablog.com">tkihara.hatenablog.com</a> ・ <a href="http://underthecanopy2016.blogspot.com">underthecanopy2016.blogspot.com</a> (old)</p>
 <p>Download my <a href="../files/Kihara_CV.pdf">CV as a PDF</a>, or browse it below.</p>
 <p>(CV last updated Sep 25 2026)</p>
 <object data="../files/Kihara_CV.pdf" type="application/pdf" style="width: 100%; height: 90vh; min-height: 600px; margin-top: 1rem; border: 1px solid #dee2e6;">
