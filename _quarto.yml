@@ -9,6 +9,7 @@ project:
     - "files/**"
     - "lectures-and-seminars-講義・研究会/**"
     - "teaching/index.html"
+    - "teaching/classes-担当授業/index.html"
     - "japanese/**"
     - "sfc/**"
     - "assets/og-card.jpg"
@@ -29,12 +30,16 @@ website:
     left:
       - href: index.qmd
         text: About
+      - href: research/index.qmd
+        text: Research
       - href: publications/index.qmd
         text: Publications
-      - href: "teaching/classes-担当授業/index.qmd"
-        text: Teaching
-      - href: teaching/keio_students/index.qmd
-        text: "Students"
+      - text: Teaching
+        menu:
+          - href: teaching/courses/index.qmd
+            text: Courses
+          - href: teaching/keio_students/index.qmd
+            text: "For Students"
       - href: resources/index.qmd
         text: Resources
       - href: cv/index.qmd
@@ -67,3 +72,18 @@ format:
       - text: |
           <script data-goatcounter="https://tatekihara.goatcounter.com/count"
                   async src="//gc.zgo.at/count.js"></script>
+      # ナビの「Teaching」は 2 項目のメニュー（Classes / For Students、2026-10-04）。Quarto はメニューの中の
+      # ページを開いているときに現在地の印を付けないので、ここで「Teaching」に付ける。
+      - text: |
+          <script>
+          document.addEventListener('DOMContentLoaded', function () {
+            var here = window.location.pathname.replace(/index\.html$/, '');
+            document.querySelectorAll('.navbar .dropdown-menu .dropdown-item').forEach(function (a) {
+              if (a.pathname.replace(/index\.html$/, '') !== here) return;
+              a.setAttribute('aria-current', 'page');
+              var menu = a.closest('.dropdown');
+              var toggle = menu && menu.querySelector('.dropdown-toggle');
+              if (toggle) toggle.classList.add('active');
+            });
+          });
+          </script>
