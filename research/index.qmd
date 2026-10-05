@@ -29,7 +29,7 @@ My research asks how the movement of people across national borders is entangled
 </div>
 ```
 
-I approach these questions with the tools of historical and social demography and analyze data within interpretive frameworks that are meaningful for the social sciences. Much of the work consists of assembling population data of different kinds, assessing their representativeness, and harmonizing them, and sometimes of producing them. For my historical research, this means administrative and census records from the first half of the twentieth century, linked across years and sometimes across sources to follow the same people over time. For contemporary research, it means archived social survey microdata, and I have also taken part in conducting surveys: as a member of the research group for the [2025 SSM Survey](https://ssm2025.jp/) I work on its [survey of foreign residents](https://ssm2025.jp/survey_d/), and in another collaborative survey in the Tokyo metropolitan area I have carried out qualitative follow-up interviews with respondents to its quantitative survey.
+I approach these questions with the tools of historical and social demography and analyze data within interpretive frameworks that are meaningful for the social sciences. Much of the work consists of assembling population data of different kinds, assessing their representativeness, and harmonizing them, and sometimes of producing them. For my historical research, this means administrative records, such as the individual records of the War Relocation Authority (WRA), which incarcerated Japanese Americans during World War II, and U.S. census records from the first half of the twentieth century, linked across years and sometimes across sources to follow individuals and their families over time.
 
 ```{=html}
 <p class="fig-hint">Click an image to enlarge.</p>
@@ -46,7 +46,7 @@ I approach these questions with the tools of historical and social demography an
 </div>
 ```
 
-My current research, supported in part by a [JSPS Grant-in-Aid for Early-Career Scientists](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-26K16547/) (FY2026–2029), extends this work, which began with the Japanese who settled in the continental United States, to people from Japan who settled in other countries, and pursues the same questions among immigrants in Japan today.
+For contemporary research, I use archived social survey microdata, and I have also taken part in conducting surveys: as a member of the research group for the [2025 SSM Survey](https://ssm2025.jp/) I work on its [survey of foreign residents](https://ssm2025.jp/survey_d/), and in another collaborative survey in the Tokyo metropolitan area I have carried out qualitative follow-up interviews with respondents to its quantitative survey. My current research, supported in part by a [JSPS Grant-in-Aid for Early-Career Scientists](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-26K16547/) (FY2026–2029), extends my historical work, which began with the Japanese who settled in the continental United States, to people from Japan who settled in other countries, and pursues the same questions among immigrants in Japan today.
 
 My publications are listed on the [Publications](/publications/) page.
 
