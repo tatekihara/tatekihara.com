@@ -361,6 +361,17 @@ main h2:first-of-type {
   flex: 0 0 118px;
 }
 
+/* 書影のない項目（書評など）。本文の左端をほかの項目に揃える（118px + gap 1.5rem） */
+.pub > .pub-text:only-child {
+  margin-left: calc(118px + 1.5rem);
+}
+
+@media (max-width: 640px) {
+  .pub > .pub-text:only-child {
+    margin-left: 0;
+  }
+}
+
 .pub {
   border-bottom: none;
   margin: 2rem 0;
