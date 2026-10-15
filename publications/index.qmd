@@ -15,7 +15,7 @@ Cover images link to the online version of each work. Feel free to e-mail if you
 [![](/assets/covers/ssr_cover.jpg)](https://doi.org/10.1016/j.ssresearch.2026.103442)
 :::
 ::: {.pub-text}
-**Kihara, Tate.** 2026. "Constrained Occupational Pathways: Historical Ethnic Penalties in Career Mobility among Japanese Immigrants in the United States, 1920–1940." ***Social Science Research*** 103442 (in press). doi: [10.1016/j.ssresearch.2026.103442](https://doi.org/10.1016/j.ssresearch.2026.103442).
+**Kihara, Tate.** 2027. "Constrained Occupational Pathways: Historical Ethnic Penalties in Career Mobility among Japanese Immigrants in the United States, 1920–1940." ***Social Science Research*** 141: 103442. doi: [10.1016/j.ssresearch.2026.103442](https://doi.org/10.1016/j.ssresearch.2026.103442).
 :::
 :::
 
