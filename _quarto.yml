@@ -1,9 +1,22 @@
 project:
   type: website
   output-dir: _site
-  # WordPress 由来のファイルはビルドせずそのままコピーする（URL を維持するため）
+  # ビルドせずそのままコピーするファイル。WordPress 由来のものは URL を維持する分だけを
+  # 1 件ずつ列挙する（ページで使う書影などと、論文 PDF）
   resources:
-    - "wp-content/**"
+    - "wp-content/uploads/2021/12/cropped-tate_pic_2021_2_original-4-scaled-1.jpg"
+    - "wp-content/uploads/2024/05/m_coverimage-1.png"
+    - "wp-content/uploads/2024/09/Kihara-2024-.pdf"
+    - "wp-content/uploads/2024/09/Kihara-2024-1-1.pdf"
+    - "wp-content/uploads/2024/09/Kihara-posted-PDF.pdf"
+    - "wp-content/uploads/2024/11/Screenshot-2024-11-22-at-11.00.09.png"
+    - "wp-content/uploads/2024/12/book_cover.png"
+    - "wp-content/uploads/2024/12/ijjs.v33.1.cover-2.jpg"
+    - "wp-content/uploads/2025/01/Kihara_2024_Demography-2.pdf"
+    - "wp-content/uploads/2025/01/Kihara_2024_Demography.pdf"
+    - "wp-content/uploads/2025/05/normal_64b7d65f-e96f-45ee-9d5a-86bf596f3f0b.jpg"
+    - "wp-content/uploads/2025/12/mrxa_59_4.webp"
+    - "wp-content/uploads/2025/12/showCoverImage-4.jpeg"
     - "CNAME"
     - "robots.txt"
     - "files/**"
